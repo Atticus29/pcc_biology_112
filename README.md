@@ -42,7 +42,7 @@ Lecture
 |13 Aug, 2018|8|||
 |Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
 
-Lab (for CRN 20409)
+Lab
 
 |Date (Monday)|Week|Topics|
 |:---:|:---:|:---:|
