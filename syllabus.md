@@ -54,3 +54,19 @@ Lab
 |30 Jul, 2018|6|||
 |6 Aug, 2018|7|||
 |13 Aug, 2018|8|||
+
+---
+#### Lab Grades
+
+|Item|Details|Total Points|
+|:---:|:---:|:---:|
+|Quizzes|8 @ 15 pts each, lowest score dropped|120 pts|
+|Homework Assignments|10 @ 10 pts each|100 pts|
+|Skills Test|1 @ 30 pts|30 pts|
+|Microworlds Project|5 @ 10 pts each|50 pts|
+|**Total**||300 pts|
+
+---
+#### Course Details
+
+
