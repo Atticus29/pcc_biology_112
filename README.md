@@ -85,30 +85,45 @@ A student will collaboratively and independently:
 #### Attendance and Participation
 
 Full participation in lab is a requirement for BI 112.  Attendance means completing the assigned exercises, participating in activities that require group effort, recording observations and data in your lab manual, and cleaning up when you are finished.  I will keep track of your participation, so please do not leave lab early.  If you do not participate fully or you come in late/leave early, you will not receive full credit for that week’s homework.
-In the event that you need to miss a lab, please contact me in advance.  You can attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz.  Please contact the instructor of the lab you would like to attend in advance and ask permission (include me in the email).  Please note: the instructor is not required to let you attend their lab.**Class Cancellation**: In the event that a lab is cancelled, your instructor will explain how the homework, quiz, etc. for that lab will be managed. 
+In the event that you need to miss a lab, please contact me in advance.  You can attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz.  Please contact the instructor of the lab you would like to attend in advance and ask permission (include me in the email).  Please note: the instructor is not required to let you attend their lab.**Class Cancellation**: In the event that a lab is cancelled, your instructor will explain how the homework, quiz, etc. for that lab will be managed.
 
-Note: Labs that are cancelled due to college schedules, weather, or other unanticipated events may result in slight deviations from the plan, but it is our intention to keep the point distribution close to the original values)
+Note: Labs that are cancelled due to college schedules, weather, or other unanticipated events may result in slight deviations from the schedule, but it is our intention to keep the point distribution close to the original values.
 
 ---
 #### Late work
 
-If you miss a lab, I will accept the postlab that was due that day the next week at the beginning of class without penalty.  All other late postlabs will be marked down 10% each **day** they are late.  You can turn in late work to the Biology Office (7/202) or electronically (usually the faster method).
+If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty.  All other late postlabs will be marked down 10% each **day** they are late.  You are encouraged to turn in late work electronically.
 
-Late lab work will not be accepted after 1 week of its due date.  If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.No materials will be accepted after the last week of class (i.e., during finals week).  
+Late lab work will not be accepted after 1 week of its due date.
+
+If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
+
+No materials will be accepted during finals week.
 
 ---
 #### Students with Disabilities
- PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).---####Title IX/Non-Discrimination statement
-Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect.  if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.---
-####Extra credit
-As a matter of department policy, there will be no extra credit assignments or activities.---####Incompletes
-A student may receive an I for a course if they miss an essential part of the class for a documented reason acceptable to the instructor. (Trips out of town for vacation, family reunions, or work are not acceptable reasons.) To be eligible for an incomplete, the student must have completed 90% of the course with a grade of C or better.  The I grade is not substitution for substandard performance.  To receive an I, the student and the instructor must sign a written agreement and submit a copy with the division administrative staff.  ---
-####Dropping/Withdrawing and Grade Options
+ PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
+
+ ---
+
+ #### Title IX/Non-Discrimination statement
+Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect.  if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
+
+---
+
+#### Extra credit
+As a matter of department policy, there will be no extra credit assignments or activities.
+---
+#### Incompletes
+A student may receive an I for a course if they miss an essential part of the class for a documented reason acceptable to the instructor (Trips out of town for vacation, family reunions, or work are not acceptable reasons). To be eligible for an incomplete, the student must have completed 90% of the course with a grade of C or better.  The I grade is not substitution for substandard performance.  To receive an I, the student and the instructor must sign a written agreement and submit a copy with the division administrative staff.  ---
+#### Dropping/Withdrawing and Grade Options
 Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period.  A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes).  	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
 ---
-####Sanctuary College
-PCC is a sanctuary college.  For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).---
-####ACADEMIC INTEGRITY
+#### Sanctuary College
+PCC is a sanctuary college.  For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
+
+---
+#### Academic Integrity
 Students are expected to be honest and ethical in their academic work. Cheating, plagiarism, falsifying, and working with others to cheat are all forms of academic dishonesty. This includes submitting work that is identical (or nearly so, based on the judgment of the instructor) to that of another student, even when completed in the context of “group” work. Various penalties may be imposed and a fair hearing process is in place. Refer to Academic Integrity Policy, which is in the Students’ Rights and Responsibilities Handbook, accessible from the PCC home page under Resources.
 
 ---
@@ -116,5 +131,4 @@ Students are expected to be honest and ethical in their academic work. Cheating,
  - Make up quizzes for absences are never allowed.
  - NO GROUP quizzes
  - Homework due during the beginning of lab. If more than 10 min. late, treated as a late assignment (~80% from lecture content, ~20% from lab content)
- - The homework may be marked down up to 75% for the following reasons:    - Arrive after exercise starts or leave before exercise finishes: -25%    - Are present but do not participate fully: -25%     - Do not clean up after yourself or your group: -25%    - Do not put microscope properly: -25%
-
+ - The homework may be marked down up to 75% for the following reasons:    - Arrive after exercise starts or leave before exercise finishes: -25%    - Are present but do not participate fully: -25%    - Do not clean up after yourself or your group: -25%    - Do not put microscope properly: -25%
