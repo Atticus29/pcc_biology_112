@@ -30,17 +30,17 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 **Lecture**
 
-|Date (Monday)|Week|Topics|Text Chapter(s)|
-|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|||
-|2 Jul., 2018|2| **No lecture or lab on July 4**||
-|9 Jul., 2018|3|||
-|16 Jul., 2018|4|||
-|23 Jul., 2018|5|||
-|30 Jul, 2018|6|||
-|6 Aug, 2018|7|||
-|13 Aug, 2018|8|||
-|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
+|Date (Monday)|Week|Topics|Text Chapter(s)|Graded items due|
+|:---:|:---:|:---:|:---:|:---:|
+|25 Jun., 2018|1||||
+|2 Jul., 2018|2| **No lecture or lab on July 4**|||
+|9 Jul., 2018|3||||
+|16 Jul., 2018|4||||
+|23 Jul., 2018|5||||
+|30 Jul, 2018|6||||
+|6 Aug, 2018|7||||
+|13 Aug, 2018|8||||
+|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|||
 
 **Lab**
 
@@ -49,7 +49,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
 |25 Jun., 2018|1|1. Scientific Inquiry/2. Microscope Skills ||
-|2 Jul., 2018|2| 2. Microscope Skills(cont.)/**No lecture or lab on July 4**|Postlab 1|
+|2 Jul., 2018|2| 2. Microscope Skills(cont.)/ **No lecture or lab on July 4**|Postlab 1|
 |9 Jul., 2018|3|3. Biological Macromolecules/ 6. Diffusion and Osmosis|Postlab 2|
 |16 Jul., 2018|4|6. Diffusion and Osmosis/5. Enzymes |Postlab 3|
 |23 Jul., 2018|5|5. Enzymes (cont.)/7. Fermentation/Respiration|Postlab 6|
@@ -75,13 +75,42 @@ A student will collaboratively and independently:
 ---
 #### Lab Grades
 
+BI 112 lab is worth 30% of your course grade, and the lecture is worth the remaining 70% of your grade.
+
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|8 @ 15 pts each, lowest score dropped|120 pts|
+|Quizzes|6 @ 20 pts each, lowest score dropped|120 pts|
 |Postlab Homework Assignments|10 @ 10 pts each|100 pts|
 |Skills Test|1 @ 30 pts|30 pts|
 |Microworlds Project|5 @ 10 pts each|50 pts|
 |**Total**||300 pts|
+
+_Quizzes_
+ - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on Wednesday lab, **except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
+ - Each quiz is worth 20 points.  Your lowest quiz score is dropped.  
+ - Quizzes are given during the first 10 to 15 minutes of class.  If you are late, you have only the time remaining to complete the quiz.  Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
+ - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
+ - These quizzes are challenging!  This is how we assess your understanding of the lab material.  The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.  
+
+_Postlab homework assignments_
+ - There are 10 post-lab homework assignments.
+ - Each post-lab is worth 10 points.  
+ - Post-labs are due at the beginning of the lab (except for postlabs 9 and 10, which are due in class at the end of lab).
+ - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab.  
+ - These are to be your own work.
+ - The postlabs may be marked down up to 75% for the following reasons:
+   - Student arrives after exercise starts or student leaves before exercise finishes: -25%
+   - Student is present but does not participate fully: -25%
+   - Student does not clean up after themselves or their group: -25%
+ - If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
+
+_Microworlds_
+ - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
+ - There are 5 microworld projects due by the end of the term.  Due dates vary TODO flesh out?.
+ - These must be your own work.
+
+Skills test:
+•	Please see separate handout TODO link to it
 
 ---
 
@@ -133,6 +162,7 @@ Students are expected to be honest and ethical in their academic work. Cheating,
 ---
 #### TODO Details
  - Is there a finals weeks during the summer quarter?
+ - Create slack channel asap and send out welcome email
  - Make up quizzes for absences are never allowed.
  - NO GROUP quizzes
  - Homework due during the beginning of lab. If more than 10 min. late, treated as a late assignment (~80% from lecture content, ~20% from lab content)
