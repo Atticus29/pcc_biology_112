@@ -40,20 +40,24 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 |30 Jul, 2018|6|||
 |6 Aug, 2018|7|||
 |13 Aug, 2018|8|||
-|Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
+|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
 
 **Lab**
 
-|Date (Monday)|Week|Topics|
-|:---:|:---:|:---:|
-|25 Jun., 2018|1|||
-|2 Jul., 2018|2| **No lecture or lab on July 4**||
-|9 Jul., 2018|3|||
-|16 Jul., 2018|4|||
-|23 Jul., 2018|5|||
-|30 Jul, 2018|6|||
-|6 Aug, 2018|7|||
-|13 Aug, 2018|8|||
+Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
+
+|Date (Monday)|Week|Topics (M/W)|Graded items due|
+|:---:|:---:|:---:|:---:|
+|25 Jun., 2018|1|1. Scientific Inquiry/2. Microscope Skills ||
+|2 Jul., 2018|2| 2. Microscope Skills(cont.)/**No lecture or lab on July 4**|Postlab 1|
+|9 Jul., 2018|3|3. Biological Macromolecules/ 6. Diffusion and Osmosis|Postlab 2|
+|16 Jul., 2018|4|6. Diffusion and Osmosis/5. Enzymes |Postlab 3|
+|23 Jul., 2018|5|5. Enzymes (cont.)/7. Fermentation/Respiration|Postlab 6|
+|30 Jul, 2018|6|7. Fermentation/Respiration (cont.)/4. pH and Buffers|Postlab 5; TODO Skills tests begin??|
+|6 Aug, 2018|7|4. pH and Buffers (cont.)/ 8. Meiosis and Mitosis|Postlabs 7 and 4; Skills tests TODO begin|
+|13 Aug, 2018|8|9. Inheritance/ 10. DNA structure|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
+|20 Aug, 2018|9|Finals Week|No work accepted during finals week|
+
 
 ---
 #### Course DescriptionIncludes the study of the scientific method, cellular chemistry, cell structure and function, principles of inheritance, and laboratory skills. Includes topics and skills required to continue to Anatomy & Physiology and Microbiology.  Prerequisites: WR 115, RD 115, and MTH 65 or equivalent placement test scores. Audit available.
@@ -74,7 +78,7 @@ A student will collaboratively and independently:
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
 |Quizzes|8 @ 15 pts each, lowest score dropped|120 pts|
-|Homework Assignments|10 @ 10 pts each|100 pts|
+|Postlab Homework Assignments|10 @ 10 pts each|100 pts|
 |Skills Test|1 @ 30 pts|30 pts|
 |Microworlds Project|5 @ 10 pts each|50 pts|
 |**Total**||300 pts|
@@ -128,6 +132,7 @@ Students are expected to be honest and ethical in their academic work. Cheating,
 
 ---
 #### TODO Details
+ - Is there a finals weeks during the summer quarter?
  - Make up quizzes for absences are never allowed.
  - NO GROUP quizzes
  - Homework due during the beginning of lab. If more than 10 min. late, treated as a late assignment (~80% from lecture content, ~20% from lab content)
