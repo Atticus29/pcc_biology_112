@@ -30,17 +30,17 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 **Lecture**
 
-|Date (Monday)|Week|Topics|Text Chapter(s)|Graded items due|
+|Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1||||
-|2 Jul., 2018|2| **No lecture or lab on July 4**|||
-|9 Jul., 2018|3||||
-|16 Jul., 2018|4||||
-|23 Jul., 2018|5||||
-|30 Jul, 2018|6||||
-|6 Aug, 2018|7||||
-|13 Aug, 2018|8||||
-|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|||
+|25 Jun., 2018|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
+|2 Jul., 2018|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
+|9 Jul., 2018|3|A Tour of the Cell/***EXAM 1 (Wed)***|4||
+|16 Jul., 2018|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
+|23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
+|30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
+|6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
+|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
+|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|9|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|||
 
 **Lab**
 
