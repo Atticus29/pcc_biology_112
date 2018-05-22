@@ -48,14 +48,14 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|1. Scientific Inquiry/2. Microscope Skills ||
-|2 Jul., 2018|2| 2. Microscope Skills(cont.)/ **No lecture or lab on July 4**|Postlab 1|
-|9 Jul., 2018|3|3. Biological Macromolecules/ 6. Diffusion and Osmosis|Postlab 2|
-|16 Jul., 2018|4|6. Diffusion and Osmosis/5. Enzymes |Postlab 3|
-|23 Jul., 2018|5|5. Enzymes (cont.)/7. Fermentation/Respiration|Postlab 6|
-|30 Jul, 2018|6|7. Fermentation/Respiration (cont.)/4. pH and Buffers|Postlab 5; TODO Skills tests begin??|
-|6 Aug, 2018|7|4. pH and Buffers (cont.)/ 8. Meiosis and Mitosis|Postlabs 7 and 4; Skills tests TODO begin|
-|13 Aug, 2018|8|9. Inheritance/ 10. DNA structure|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
+|25 Jun., 2018|1|Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
+|2 Jul., 2018|2| 2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
+|9 Jul., 2018|3|4. pH and Buffers (Ex. 1-2)/4. pH and Buffers (Ex. 3)|Postlab 2|
+|16 Jul., 2018|4|5. Enzymes (Ex. 1-2)/ 5. Enzymes (Ex. 3) |Postlab 3|
+|23 Jul., 2018|5|6. Diffusion and Osmosis (Ex.1,2,5)/6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 6|
+|30 Jul, 2018|6|7. Fermentation/Respiration (Ex. 1,2)/ 7. Fermentation/Respiration (Ex. 3,4)|Postlab 5; TODO Skills tests begin??|
+|6 Aug, 2018|7|8. Meiosis and Mitosis (Ex. 1-4)/ 9. Inheritance|Postlabs 7 and 4; Skills tests TODO begin|
+|13 Aug, 2018|8|9. Inheritance (cont.)/ 10. DNA structure|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
 
@@ -79,7 +79,7 @@ BI 112 lab is worth 30% of your course grade, and the lecture is worth the remai
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|6 @ 20 pts each, lowest score dropped|120 pts|
+|Quizzes|7 @ 20 pts each, lowest score dropped|120 pts|
 |Postlab Homework Assignments|10 @ 10 pts each|100 pts|
 |Skills Test|1 @ 30 pts|30 pts|
 |Microworlds Project|5 @ 10 pts each|50 pts|
