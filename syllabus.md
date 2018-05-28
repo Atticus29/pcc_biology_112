@@ -236,6 +236,36 @@ Questions and discussions are integral parts of this class!  We have 4 hours of 
 On the other hand, please try to limit your questions to the section we are covering and respect other people in the class. Some questions may be more appropriate to discuss during office hours. Please keep in mind that all students have different learning styles.  I teach to as many of these styles as possible while making sure we cover the necessary material to keep us on schedule.
 
 ---
+
+### Strategies for success in a biology class
+
+Science doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful.
+
+- **Work hard during lectures** This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
+
+
+- **Be an active learner** Skim the book and lecture notes before class.  Come to all lectures. While you take notes in class, write down questions you have about the lecture or which are brought to mind by the lecture. Identify points in the lecture that you think are the main points. Review your notes shortly after class.  Compare notes with a classmate. Do your notes agree? While you read, pause and reflect on the material. How does it fit with what you know already? Are  you memorizing facts or learning concepts?
+
+- **Figure out and use your learning strengths** Knowing your learning style can help you in any class. Some people learn best by reading, others by writing, others by drawing, others by talking. Use the techniques that work best for you. (Even better, use a combination of techniques!)
+	To learn more about student learning styles, go to http://www.learning-styles-online.com/,
+http://www.personal.psu.edu/bxb11/LSI/LSI.htm, or http://www.edutopia.org/multiple-intelligences-learning-styles-quiz.
+
+- **Participate in a study group** I know… you hate study groups. But talking about the material is an excellent way to assess your understanding. I encourage you to use the discussion section on TODO Desire2Learn to set up or find a group that works for you.  Former 112 students have reported that they were unlikely to succeed in A&P without study groups and that the connections they made in 112 were important to their success.
+
+- **Learn from your mistakes** Take the practice tests and quizzes available through the text book. If you get something wrong, try to determine why. This is especially true for exams. Spend time analyzing your exam results.  It’s easy to say the question was too difficult – it’s more effective to figure out why the question was difficult.
+
+- **Take responsibility**  You are the person in control of your performance in class.  I don’t give you a grade - I just report the grade you earn.
+
+- **Spend time on this course** Schedule and spend time at least every other day to read and review course materials, re-write your notes and think. Much of this course builds upon earlier portions of the course. Try not to fall behind.
+
+- **Take advantage of the resources available to you** There are many services available to help you in all aspects of your education.  Don’t forget that your book and the online content are excellent resources! You should take advantage of all the tools that come with your book.
+
+- **Ask me for help if you get confused** Don’t be shy about asking questions in class! If you have a question, it’s likely that other students are wondering the same thing.  Please come see me during office hours! I’m there to help you with the material.
+
+- **Success here=future rewards**  In BI 112 our goal is to make sure that you have a good background in basic biology and that you are well-prepared for the 200-level courses you will need to go on into Health Science.
+
+---
+
 ### TODO Details
  - Is there a finals weeks during the summer quarter?
  - Create slack channel asap and send out welcome email
