@@ -188,33 +188,55 @@ Because I drop your lowest exam score, no make-up exams are given – no excepti
 If the student misses the final exam for a documented reason acceptable to the instructor, the instructor may assign an I.  The instructor is not required to administer a make-up final exam if the student misses the final exam for a reason that is not acceptable to the instructor and is not documented.  The instructor reserves the right to administer a make-up final exam that differs from the original exam and/or to deduct points from the make-up final exam.
 
 ---
-#### Students with Disabilities
+
+### Incompletes
+A student may receive an I for a course if they miss an essential part of the class for a documented reason acceptable to the instructor (Trips out of town for vacation, family reunions, or work are not acceptable reasons). To be eligible for an incomplete, the student must have completed 90% of the course with a grade of C or better.  The I grade is not substitution for substandard performance.  To receive an I, the student and the instructor must sign a written agreement and submit a copy with the division administrative staff.
+
+---
+### Desire2Learn
+TODO Please communicate with me outside of class through D2L.  **You are responsible for all information on Desire2Learn**. Please check it frequently.
+
+### Students with Disabilities
  PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
 
  ---
 
- #### Title IX/Non-Discrimination statement
+ ### Title IX/Non-Discrimination statement
 Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect.  if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
 
----
-
-#### Extra credit
-As a matter of department policy, there will be no extra credit assignments or activities.
----
-#### Incompletes
-A student may receive an I for a course if they miss an essential part of the class for a documented reason acceptable to the instructor (Trips out of town for vacation, family reunions, or work are not acceptable reasons). To be eligible for an incomplete, the student must have completed 90% of the course with a grade of C or better.  The I grade is not substitution for substandard performance.  To receive an I, the student and the instructor must sign a written agreement and submit a copy with the division administrative staff.  ---
-#### Dropping/Withdrawing and Grade Options
+---
+### Dropping/Withdrawing and Grade Options
 Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period.  A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes).  	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
 ---
-#### Sanctuary College
+### Sanctuary College
 PCC is a sanctuary college.  For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
 
 ---
-#### Academic Integrity
+### Academic Integrity
 Students are expected to be honest and ethical in their academic work. Cheating, plagiarism, falsifying, and working with others to cheat are all forms of academic dishonesty. This includes submitting work that is identical (or nearly so, based on the judgment of the instructor) to that of another student, even when completed in the context of “group” work. Various penalties may be imposed and a fair hearing process is in place. Refer to Academic Integrity Policy, which is in the Students’ Rights and Responsibilities Handbook, accessible from the PCC home page under Resources.
+[Code of Student Conduct](www.pcc.edu/about/policy/student-rights/student-rights.pdf#code-of-student-conduct)
 
 ---
-#### TODO Details
+
+### Academic Courtesy
+Students must demonstrate respect for fellow students during the class period. Please keep in mind that your classmates may have beliefs and opinions that differ from your own. I expect you to show courtesy toward everyone.
+
+Refrain from talking and other distracting behavior.
+
+Please come to class on time. If you do come to class late, please try to be as unobtrusive as possible. If you must leave early, sit near the exit and try to wait for a break to leave. Leaving in the middle of lecture can be very disruptive.
+
+Please feel free to have food and drink in the classroom as long as it is not disruptive; the same is **not** true of lab, of course.
+
+Students are expected to help maintain the appearance of the classroom. Please discard all trash. This is Portland - y'all know the Leave No Trace mantra.
+
+#### Academic Courtesy and Classroom Discussions
+
+Questions and discussions are integral parts of this class!  We have 4 hours of lecture each week and discussions help keep students (and the instructor!) engaged in the material.  Many students learn new material by integrating it with their existing knowledge and by placing it in a specific and personal context.  Therefore, some questions may sound ‘off-topic’ to some students because they have different view or understanding of the material.  However, questions and comments that are not specifically in the book or notes may be just as important to student learning as questions directly from the material in the book.
+
+On the other hand, please try to limit your questions to the section we are covering and respect other people in the class. Some questions may be more appropriate to discuss during office hours. Please keep in mind that all students have different learning styles.  I teach to as many of these styles as possible while making sure we cover the necessary material to keep us on schedule.
+
+---
+### TODO Details
  - Is there a finals weeks during the summer quarter?
  - Create slack channel asap and send out welcome email
  - Make up quizzes for absences are never allowed.
