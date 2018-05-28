@@ -16,6 +16,22 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 ---
 ## Course Info
+BI 112 is a laboratory science course designed as a prerequisite for pre health professions students who plan to take microbiology and/or anatomy and physiology at PCC. Includes the study of the scientific method, cellular chemistry, cell structure and function, principles of inheritance, and laboratory skills. Includes topics and skills required to continue to Anatomy & Physiology and Microbiology. Audit available.  Prerequisites: WR 115, RD 115, and MTH 65 or equivalent placement test scores.
+
+### Evaluation
+BI 112 is a 5 credit course; co-enrollment in a Lab section is required. The lecture is worth 70% of the final grade, lab will be worth 30% of the final grade.
+
+### Attendance
+For BI 112, a key ingredient to your success will be attendance. It is your responsibility to arrive at lecture _on time_ and prepared to learn.  There will occasionally be assignments that are completed in class.  You must be in class to complete these assignments and to receive credit for them.  There will be no makeup assignments – no exceptions.
+
+---
+### Lecture Instruction Materials
+- Campbell-Biology in Focus-Custom edition for PCC, ISBN 9781323766248 (Taken from Campbell-Biology in Focus Urry et al., 2nd ed., Pearson.)
+
+---
+### Lab Instruction Materials
+
+- Biology 112 Laboratory Manual, Rock Creek 2017-2018.  This manual is meant to be written in; a new copy is essential.
 
 ---
 ### Class times and locations
@@ -26,6 +42,26 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 |Lab|Bldg. 7 Rm. 123|MW|11:30 AM-01:20 PM|
 |Office Hours|Bldg. 7 Rm. 202|M|1:30 PM - 2:30 PM|
 ---
+
+### Lecture Grade Breakdown
+Lecture is worth 700 points with the following breakdown:
+
+|Graded Component|Description|Points|
+|:---:|:---:|:---:|
+|Exams|There will be three mid-term lecture exams (175 pts each). Your lowest mid-term exam score will be dropped.  You will have 60 minutes to complete each exam.  There will be ~40 multiple choice questions.  You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, no make-up exams – no exceptions. Please take care of restroom needs before the exam.  You will not be permitted to leave the exam once you start.  If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
+|Final Exam|The final exam will cover the remaining material and have a comprehensive portion.  You must take the final exam as scheduled.  You may not drop the final exam as your lowest exam score. It's format will be similar to the other exams, but slightly longer|200 pts|
+|Biology Study Skills|These assignments were designed to help you learn methods to help you succeed in this class and in future classes.  TODO please see ___ for more information|50 pts|
+|In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material.  I am not looking for perfection.  If you score 90% or above on these assignments, you will receive full credit for the IHOP.  IHOP assignments are never accepted late.|100 pts.|
+
+
+1.	Participation – Attendance will count toward this grade.  Tardiness may result in reduced points.
+2.	In-class assignments – A variable number of in-class assignments will be assigned throughout the term.  You must be present to complete in-class assignments.  These cannot be made up – no exceptions.  
+3.	Online assignments – There are questions sets for each chapter available through the quizzes function on D2L.  You may take these multiple times – your average score will be recorded.  They are due before each exam.  
+4.	Homework – Other assignments may be assigned to be completed on your own.
+
+
+---
+
 #### Course Schedule
 
 **Lecture**
@@ -48,7 +84,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
+|25 Jun., 2018|1|1. Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
 |2 Jul., 2018|2| 2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
 |9 Jul., 2018|3|4. pH and Buffers (Ex. 1-2)/4. pH and Buffers (Ex. 3)|Postlab 2|
 |16 Jul., 2018|4|5. Enzymes (Ex. 1-2)/ 5. Enzymes (Ex. 3) |Postlab 4|
@@ -58,19 +94,11 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |13 Aug, 2018|8|9. Genetics (cont.) and TODO number DNA structure/ TODO number 10. Transcription and Translation|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
-
 ---
-#### Course DescriptionIncludes the study of the scientific method, cellular chemistry, cell structure and function, principles of inheritance, and laboratory skills. Includes topics and skills required to continue to Anatomy & Physiology and Microbiology.  Prerequisites: WR 115, RD 115, and MTH 65 or equivalent placement test scores. Audit available.
-
----
-#### Intended Outcomes for the course
+#### Intended Outcomes for the Course
 A student will collaboratively and independently:
 
 - Analyze their individual thinking and learning styles & how their styles can be integrated with methods used in science.- Use an understanding of biological and chemical principles of cell function as a base for further learning in the health sciences.- Build on the laboratory research experience to organize data and information in order to draw conclusions and identify new investigative paths.- Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
-
----
-#### Lab Instruction Materials
-- Biology 112 Laboratory Manual, Rock Creek 2017-2018.  This manual is meant to be written in; a new copy is essential.
 
 ---
 #### Lab Grades
