@@ -43,6 +43,16 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 |Office Hours|Bldg. 7 Rm. 202|M|1:30 PM - 2:30 PM|
 ---
 
+### Grade Ranges
+|Letter Grade|Corresponding Percentage Range|
+|:---:|:---:|
+|A|90-100%|
+|B|80-89%|
+|C|70-79%|
+|D|60-69%|
+|F|<60%|
+---
+
 ### Lecture Grade Breakdown
 Lecture is worth 700 points with the following breakdown:
 
@@ -53,57 +63,22 @@ Lecture is worth 700 points with the following breakdown:
 |Biology Study Skills|These assignments were designed to help you learn methods to help you succeed in this class and in future classes.  TODO please see ___ for more information|50 pts|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material.  I am not looking for perfection.  If you score 90% or above on these assignments, you will receive full credit for the IHOP.  IHOP assignments are never accepted late.|100 pts.|
 
-
+#### More details about the IHOP component
 1.	Participation – Attendance will count toward this grade.  Tardiness may result in reduced points.
 2.	In-class assignments – A variable number of in-class assignments will be assigned throughout the term.  You must be present to complete in-class assignments.  These cannot be made up – no exceptions.  
 3.	Online assignments – There are questions sets for each chapter available through the quizzes function on D2L.  You may take these multiple times – your average score will be recorded.  They are due before each exam.  
-4.	Homework – Other assignments may be assigned to be completed on your own.
-
-
----
-
-#### Course Schedule
-
-**Lecture**
-
-|Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
-|:---:|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|2 Jul., 2018|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
-|9 Jul., 2018|3|A Tour of the Cell/***EXAM 1 (Wed)***|4||
-|16 Jul., 2018|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
-|23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
-|30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
-|6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
-|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
-|TODO Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|9|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|||
-
-**Lab**
-
-Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
-
-|Date (Monday)|Week|Topics (M/W)|Graded items due|
-|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|1. Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
-|2 Jul., 2018|2| 2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
-|9 Jul., 2018|3|4. pH and Buffers (Ex. 1-2)/4. pH and Buffers (Ex. 3)|Postlab 2|
-|16 Jul., 2018|4|5. Enzymes (Ex. 1-2)/ 5. Enzymes (Ex. 3) |Postlab 4|
-|23 Jul., 2018|5|6. Diffusion and Osmosis (Ex.1,2,5)/6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5|
-|30 Jul, 2018|6|7. Fermentation/Respiration (Ex. 1,2)/ 7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests begin|
-|6 Aug, 2018|7|8. Meiosis and Mitosis (Ex. 1-4)/ 9. Genetics|Postlabs 7 and 4; Skills tests|
-|13 Aug, 2018|8|9. Genetics (cont.) and TODO number DNA structure/ TODO number 10. Transcription and Translation|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
-|20 Aug, 2018|9|Finals Week|No work accepted during finals week|
+4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
-#### Intended Outcomes for the Course
-A student will collaboratively and independently:
-
-- Analyze their individual thinking and learning styles & how their styles can be integrated with methods used in science.- Use an understanding of biological and chemical principles of cell function as a base for further learning in the health sciences.- Build on the laboratory research experience to organize data and information in order to draw conclusions and identify new investigative paths.- Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
-
----
-#### Lab Grades
+### Lab Grade Breakdown
 
 BI 112 lab is worth 30% of your course grade, and the lecture is worth the remaining 70% of your grade.
+
+**You cannot pass the class without passing the lab portion**.  If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture.  If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course.**
+
+NOTE:  Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
+
+Grade calculations:  Please check on TODO D2L to make sure your grades are entered and correct.  If there are any discrepancies, please contact me immediately.  I recommend you keep all of your returned tests and assignments in case a problem arises.
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
@@ -142,6 +117,45 @@ Skills test:
 
 ---
 
+
+### Course Schedule
+
+#### Lecture
+
+|Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
+|:---:|:---:|:---:|:---:|:---:|
+|25 Jun., 2018|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
+|2 Jul., 2018|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
+|9 Jul., 2018|3|A Tour of the Cell/***EXAM 1 (Wed)***|4||
+|16 Jul., 2018|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
+|23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
+|30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
+|6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
+|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
+|Monday, 20 Aug., 2018, 08:30 AM-10:50 AM|9|**Comprehensive Final Exam**|NA|||
+
+#### Lab
+
+Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
+
+|Date (Monday)|Week|Topics (M/W)|Graded items due|
+|:---:|:---:|:---:|:---:|
+|25 Jun., 2018|1|1. Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
+|2 Jul., 2018|2| 2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
+|9 Jul., 2018|3|4. pH and Buffers (Ex. 1-2)/4. pH and Buffers (Ex. 3)|Postlab 2|
+|16 Jul., 2018|4|5. Enzymes (Ex. 1-2)/ 5. Enzymes (Ex. 3) |Postlab 4|
+|23 Jul., 2018|5|6. Diffusion and Osmosis (Ex.1,2,5)/6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5|
+|30 Jul, 2018|6|7. Fermentation/Respiration (Ex. 1,2)/ 7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests begin|
+|6 Aug, 2018|7|8. Meiosis and Mitosis (Ex. 1-4)/ 9. Genetics|Postlabs 7 and 4; Skills tests|
+|13 Aug, 2018|8|9. Genetics (cont.) and TODO number DNA structure/ TODO number 10. Transcription and Translation|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
+|20 Aug, 2018|9|Finals Week|No work accepted during finals week|
+
+---
+#### Intended Outcomes for the Course
+A student will collaboratively and independently:
+
+- Analyze their individual thinking and learning styles & how their styles can be integrated with methods used in science.- Use an understanding of biological and chemical principles of cell function as a base for further learning in the health sciences.- Build on the laboratory research experience to organize data and information in order to draw conclusions and identify new investigative paths.- Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
+
 ---
 #### Attendance and Participation
 
@@ -151,15 +165,27 @@ Full participation in lab is a requirement for BI 112.  Attendance means complet
 Note: Labs that are cancelled due to college schedules, weather, or other unanticipated events may result in slight deviations from the schedule, but it is our intention to keep the point distribution close to the original values.
 
 ---
-#### Late work
+### Late work, absences, extra credit, and missed exams
 
-If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty.  All other late postlabs will be marked down 10% each **day** they are late.  You are encouraged to turn in late work electronically.
+#### Late Assignments
+All assignments are due at the _beginning of class_ on the due date unless otherwise noted.  If you turn materials in late in class, even if you are just tardy or forgot to turn it in, they will be marked down as if they are a day late. Late assignments will be marked down 10% each **day** after the due date.  Late assignments will not be accepted beyond 1 week of their due date. You are encouraged to turn in late work electronically if that expedites the process.
 
-Late lab work will not be accepted after 1 week of its due date.
+No late online online assignments will be accepted.  If you have computer problems, you must contact me before the due date.
 
-If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
+No materials will be accepted after the last day of class (i.e., no materials will be accepted during finals week).
 
-No materials will be accepted during finals week.
+#### Missed labs
+If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty.  All other late postlabs follow the late assignment policy described above.
+
+If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
+
+#### Extra credit
+As a matter of department policy, there will be no extra credit assignments or activities.
+
+#### Missed exams
+Because I drop your lowest exam score, no make-up exams are given – no exceptions!!
+
+If the student misses the final exam for a documented reason acceptable to the instructor, the instructor may assign an I.  The instructor is not required to administer a make-up final exam if the student misses the final exam for a reason that is not acceptable to the instructor and is not documented.  The instructor reserves the right to administer a make-up final exam that differs from the original exam and/or to deduct points from the make-up final exam.
 
 ---
 #### Students with Disabilities
