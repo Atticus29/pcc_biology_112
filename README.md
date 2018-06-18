@@ -34,7 +34,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 - Biology 112 Laboratory Manual, Rock Creek 2017-2018.  This manual is meant to be written in; a new copy is essential.
 
 ---
-### Class times and locations
+### Class Times and Locations
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
@@ -117,7 +117,6 @@ Skills test:
 
 ---
 
-
 ### Course Schedule
 
 #### Lecture
@@ -140,14 +139,14 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|1. Scientific Inquiry, Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7 if time) ||
-|2 Jul., 2018|2| 2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
-|9 Jul., 2018|3|4. pH and Buffers (Ex. 1-2)/4. pH and Buffers (Ex. 3)|Postlab 2|
-|16 Jul., 2018|4|5. Enzymes (Ex. 1-2)/ 5. Enzymes (Ex. 3) |Postlab 4|
-|23 Jul., 2018|5|6. Diffusion and Osmosis (Ex.1,2,5)/6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5|
-|30 Jul, 2018|6|7. Fermentation/Respiration (Ex. 1,2)/ 7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests begin|
-|6 Aug, 2018|7|8. Meiosis and Mitosis (Ex. 1-4)/ 9. Genetics|Postlabs 7 and 4; Skills tests|
-|13 Aug, 2018|8|9. Genetics (cont.) and TODO number DNA structure/ TODO number 10. Transcription and Translation|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
+|25 Jun., 2018|1|Monday-Process of Scientific Inquiry, Wednesday-Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7, 4 if time)||
+|2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
+|9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2|
+|16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 4|
+|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5|
+|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests begin|
+|6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 7 and 4; Skills tests|
+|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
 ---
