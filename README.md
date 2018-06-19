@@ -19,7 +19,7 @@ Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 BI 112 is a laboratory science course designed as a prerequisite for pre health professions students who plan to take microbiology and/or anatomy and physiology at PCC. Includes the study of the scientific method, cellular chemistry, cell structure and function, principles of inheritance, and laboratory skills. Includes topics and skills required to continue to Anatomy & Physiology and Microbiology. Audit available.  Prerequisites: WR 115, RD 115, and MTH 65 or equivalent placement test scores.
 
 ### Evaluation
-BI 112 is a 5 credit course; co-enrollment in a Lab section is required. The lecture is worth 70% of the final grade, lab will be worth 30% of the final grade.
+BI 112 is a 5 credit course; co-enrollment in a Lab section is required. The lecture is worth 70% of the final grade; lab will be worth 30% of the final grade.
 
 ### Attendance
 For BI 112, a key ingredient to your success will be attendance. It is your responsibility to arrive at lecture _on time_ and prepared to learn.  There will occasionally be assignments that are completed in class.  You must be in class to complete these assignments and to receive credit for them.  There will be no makeup assignments – no exceptions.
@@ -27,6 +27,11 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ---
 ### Lecture Instruction Materials
 - Campbell-Biology in Focus-Custom edition for PCC, ISBN 9781323766248 (Taken from Campbell-Biology in Focus Urry et al., 2nd ed., Pearson.)
+    - The textbook changed in Fall, 2017, so older versions are unfortunately not suitable for the course anymore.
+
+#### Socrative
+
+- We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
 
 ---
 ### Lab Instruction Materials
@@ -38,8 +43,8 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 104|MW|08:30 AM-10:50 AM|
-|Lab|Bldg. 7 Rm. 123|MW|11:30 AM-01:20 PM|
+|Lecture|Bldg. 7 Rm. 104|MW|8:30 AM-10:50 AM|
+|Lab|Bldg. 7 Rm. 123|MW|11:30 AM-1:20 PM|
 |Office Hours|Bldg. 7 Rm. 202|M|1:30 PM - 2:30 PM|
 ---
 
@@ -54,19 +59,21 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ---
 
 ### Lecture Grade Breakdown
-Lecture is worth 700 points with the following breakdown:
+Lecture is worth ~700 points (this is subject to slight variation) with the following breakdown:
 
-|Graded Component|Description|Points|
+|Graded Component|Description|Total Points|
 |:---:|:---:|:---:|
-|Exams|There will be three mid-term lecture exams (175 pts each). Your lowest mid-term exam score will be dropped.  You will have 60 minutes to complete each exam.  There will be ~40 multiple choice questions.  You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, no make-up exams – no exceptions. Please take care of restroom needs before the exam.  You will not be permitted to leave the exam once you start.  If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
-|Final Exam|The final exam will cover the remaining material and have a comprehensive portion.  You must take the final exam as scheduled.  You may not drop the final exam as your lowest exam score. It's format will be similar to the other exams, but slightly longer|200 pts|
-|Biology Study Skills|These assignments were designed to help you learn methods to help you succeed in this class and in future classes.  TODO please see ___ for more information|50 pts|
+|Exams|There will be three in-class lecture exams (175 pts each). Your lowest in-class exam score will be dropped.  You will have 60 minutes to complete each exam.  There will be ~40 multiple choice questions.  You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, there are no make-up exams – no exceptions. Please take care of restroom needs before the exam.  You will not be permitted to leave the exam once you start.  If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
+|Final Exam|The final exam will cover the remaining material and have a comprehensive portion.  You must take the final exam as scheduled.  You may not drop the final exam as your lowest exam score. It's format will be similar to the other exams, but slightly longer.|200 pts|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes.  TODO please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material.  I am not looking for perfection.  If you score 90% or above on these assignments, you will receive full credit for the IHOP.  IHOP assignments are never accepted late.|100 pts.|
 
+Any variation in point distribution will be announced in class.
+
 #### More details about the IHOP component
-1.	Participation – Attendance will count toward this grade.  Tardiness may result in reduced points.
-2.	In-class assignments – A variable number of in-class assignments will be assigned throughout the term.  You must be present to complete in-class assignments.  These cannot be made up – no exceptions.  
-3.	Online assignments – There are questions sets for each chapter available through the quizzes function on D2L.  You may take these multiple times – your average score will be recorded.  They are due before each exam.  
+1.	Participation – Attendance as measured by Socrative submissions will count toward this grade.  Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
+2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term.  You must be present to complete in-class assignments.  These cannot be made up – no exceptions.  
+3.	Online assignments – There are question sets for each chapter available through the quizzes function on D2L.  You may take these multiple times – your average score will be recorded.  They are due before each exam.  
 4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
@@ -78,7 +85,7 @@ BI 112 lab is worth 30% of your course grade, and the lecture is worth the remai
 
 NOTE:  Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
 
-Grade calculations:  Please check on TODO D2L to make sure your grades are entered and correct.  If there are any discrepancies, please contact me immediately.  I recommend you keep all of your returned tests and assignments in case a problem arises.
+Grade calculations:  Please check on D2L to make sure your grades are entered correctly.  If there are any discrepancies, please contact me immediately.  I recommend you keep all of your returned tests and assignments in case a problem arises; instructors make mistakes all of the time!
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
@@ -109,11 +116,12 @@ _Postlab homework assignments_
 
 _Microworlds_
  - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
- - There are 5 microworld projects due by the end of the term.  Due dates vary TODO flesh out?.
+ - You are responsible for turning in 5 Microworld projects (there are 8 available) for the term.  The due dates for each vary. See p. 157 (Appendix C) of your lab manual for more information.
  - These must be your own work.
 
-Skills test:
-•	Please see separate handout TODO link to it
+_Microscope Skills Test_
+- Once during the quarter, I'll be evaluating your ability to talk about and properly handle/use a microscope.
+-	Please see p. 156 (Appendix B) of your lab manual for more information and a checklist to help you prepare.
 
 ---
 
@@ -143,10 +151,10 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
 |9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2|
 |16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 4|
-|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5|
-|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests begin|
+|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 5; Skills tests begin|
+|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 6; Skills tests|
 |6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 7 and 4; Skills tests|
-|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 8. Postlabs 9 and 10 due in lab; Skills tests|
+|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 8. Postlabs 9 and 10 due in lab|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
 ---
@@ -178,6 +186,8 @@ If you miss a lab, I will accept the postlab that was due the day you missed dur
 
 If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
 
+Make up quizzes for absences are never allowed.
+
 #### Extra credit
 As a matter of department policy, there will be no extra credit assignments or activities.
 
@@ -193,7 +203,8 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 ---
 ### Desire2Learn
-TODO Please communicate with me outside of class through D2L.  **You are responsible for all information on Desire2Learn**. Please check it frequently.
+Lecture material and quiz assignments as well as course announcements will all occur on D2L.
+ **You are responsible for all information on Desire2Learn**. Please check it frequently.
 
 ### Students with Disabilities
  PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
@@ -249,7 +260,7 @@ Science doesn't come naturally to most people. If this is your first collegiate 
 	To learn more about student learning styles, go to http://www.learning-styles-online.com/,
 http://www.personal.psu.edu/bxb11/LSI/LSI.htm, or http://www.edutopia.org/multiple-intelligences-learning-styles-quiz.
 
-- **Participate in a study group** I know… you hate study groups. But talking about the material is an excellent way to assess your understanding. I encourage you to use the discussion section on TODO Desire2Learn to set up or find a group that works for you.  Former 112 students have reported that they were unlikely to succeed in A&P without study groups and that the connections they made in 112 were important to their success.
+- **Participate in a study group** I know… you hate study groups. But talking about the material is an excellent way to assess your understanding. I encourage you to find a group that works for you.  Former 112 students have reported that they were unlikely to succeed in A&P without study groups and that the connections they made in 112 were important to their success.
 
 - **Learn from your mistakes** Take the practice tests and quizzes available through the text book. If you get something wrong, try to determine why. This is especially true for exams. Spend time analyzing your exam results.  It’s easy to say the question was too difficult – it’s more effective to figure out why the question was difficult.
 
@@ -261,14 +272,6 @@ http://www.personal.psu.edu/bxb11/LSI/LSI.htm, or http://www.edutopia.org/multip
 
 - **Ask me for help if you get confused** Don’t be shy about asking questions in class! If you have a question, it’s likely that other students are wondering the same thing.  Please come see me during office hours! I’m there to help you with the material.
 
+- **Write to learn** This is probably my best (and least-often-followed-through?) advice. When you’re reading the chapter, write about each section after you’re done reading. When you’re studying for the exams, write and answer your own practice exams. You will be shocked how often the writing process helps you understand and/or realize when you don’t understand a topic. Write write write.
+
 - **Success here=future rewards**  In BI 112 our goal is to make sure that you have a good background in basic biology and that you are well-prepared for the 200-level courses you will need to go on into Health Science.
-
----
-
-### TODO Details
- - Is there a finals weeks during the summer quarter?
- - Create slack channel asap and send out welcome email
- - Make up quizzes for absences are never allowed.
- - NO GROUP quizzes
- - Homework due during the beginning of lab. If more than 10 min. late, treated as a late assignment (~80% from lecture content, ~20% from lab content)
- - The homework may be marked down up to 75% for the following reasons:    - Arrive after exercise starts or leave before exercise finishes: -25%    - Are present but do not participate fully: -25%    - Do not clean up after yourself or your group: -25%    - Do not put microscope properly: -25%
