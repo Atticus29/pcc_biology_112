@@ -133,7 +133,7 @@ _Microscope Skills Test_
 |:---:|:---:|:---:|:---:|:---:|
 |25 Jun., 2018|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
 |2 Jul., 2018|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
-|9 Jul., 2018|3|A Tour of the Cell/***EXAM 1 (Wed)***|4||
+|9 Jul., 2018|3|A Tour of the Cell/**EXAM 1 (Wed)**|4||
 |16 Jul., 2018|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
 |30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
@@ -147,7 +147,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Monday-Process of Scientific Inquiry, Wednesday-Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7, 4 if time)||
+|25 Jun., 2018|1|Monday-1. Process of Scientific Inquiry, Wednesday-Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7, 4 if time)||
 |2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1|
 |9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2|
 |16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 4|
