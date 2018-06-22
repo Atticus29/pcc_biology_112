@@ -95,17 +95,10 @@ Grade calculations:  Please check on D2L to make sure your grades are entered co
 |Microworlds Project|5 @ 10 pts each|50 pts|
 |**Total**||300 pts|
 
-_Quizzes_
- - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on Wednesday lab, **except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
- - Each quiz is worth 20 points.  Your lowest quiz score is dropped.  
- - Quizzes are given during the first 10 to 15 minutes of class.  If you are late, you have only the time remaining to complete the quiz.  Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
- - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
- - These quizzes are challenging!  This is how we assess your understanding of the lab material.  The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.  
-
 _Postlab homework assignments_
  - There are 9 post-lab homework assignments (one less than the usual 10 because of July 4 holiday).
  - Each post-lab is worth 10 points.  
- - Post-labs are due at the beginning of the lab on Wednesdays (except for postlabs 8 and 9, which are due in class at the end of lab).
+ - Post-labs are due at the beginning of the lab on **Mondays** (except for postlabs 8 and 9, which are due in class at the end of lab).
  - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab.  
  - These are to be your own work.
  - The postlabs may be marked down up to 75% for the following reasons:
@@ -113,6 +106,13 @@ _Postlab homework assignments_
    - Student is present but does not participate fully: -25%
    - Student does not clean up after themselves or their group: -25%
  - If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
+
+_Quizzes_
+ - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **Wednesday** lab, **except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
+ - Each quiz is worth 20 points.  Your lowest quiz score is dropped.  
+ - Quizzes are given during the first 10 to 15 minutes of class.  If you are late, you have only the time remaining to complete the quiz.  Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
+ - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
+ - These quizzes are challenging!  This is how we assess your understanding of the lab material.  The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.  
 
 _Microworlds_
  - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
@@ -148,13 +148,13 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
 |25 Jun., 2018|1|Monday-1. Process of Scientific Inquiry, Wednesday-Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7, 4 if time)||
-|2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week), Quiz 1|
-|9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week), Quiz 2|
-|16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week), Quiz 3 (on lab 4)|
-|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week), Quiz 4 (on lab 5); Skills tests begin|
-|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week), Quiz 5 (on lab 6); Skills tests|
-|6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week), Quiz 6 (on lab 7); Skills tests|
-|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression (cont.)|Postlab 7 (on labs 8 and 9 and current week), Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
+|2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
+|9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
+|16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (on lab 4)|
+|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5); Skills tests begin|
+|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests|
+|6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
+|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression (cont.)|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
 ---
