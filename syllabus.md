@@ -184,7 +184,7 @@ No materials will be accepted after the last day of class (i.e., no materials wi
 #### Missed labs
 If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty.  All other late postlabs follow the late assignment policy described above.
 
-If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
+If you do not attend a lab (both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment.
 
 Make up quizzes for absences are never allowed.
 
