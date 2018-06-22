@@ -105,7 +105,7 @@ _Postlab homework assignments_
    - Student arrives after exercise starts or student leaves before exercise finishes: -25%
    - Student is present but does not participate fully: -25%
    - Student does not clean up after themselves or their group: -25%
- - If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
+ - If you do not attend a lab (both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
 
 _Quizzes_
  - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **Wednesday** lab, **except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
