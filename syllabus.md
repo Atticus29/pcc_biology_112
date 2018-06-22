@@ -211,7 +211,7 @@ Lecture material and quiz assignments as well as course announcements will all o
 
  ---
 
- ### Title IX/Non-Discrimination statement
+### Title IX/Non-Discrimination statement
 Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect.  if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
 
 ---
