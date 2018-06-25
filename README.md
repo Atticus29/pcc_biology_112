@@ -28,6 +28,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ### Lecture Instruction Materials
 - Campbell-Biology in Focus-Custom edition for PCC, ISBN 9781323766248 (Taken from Campbell-Biology in Focus Urry et al., 2nd ed., Pearson.)
     - The textbook changed in Fall, 2017, so older versions are unfortunately not suitable for the course anymore.
+    - You can use the MasteringBiology companion online. There are a lot of resources available for practice problems. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER59345**.
 
 #### Socrative
 
