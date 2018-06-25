@@ -147,7 +147,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Monday-1. Process of Scientific Inquiry, Wednesday-Measurement & Metrics/ 2. Microscopes (Ex. 1-3,7, 4 if time)||
+|25 Jun., 2018|1|Monday-1. Process of Scientific Inquiry, Measurement & Metrics/ Wednesday-2. Microscopes (Ex. 1-3,7, 4 if time)||
 |2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
 |9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
 |16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (on lab 4)|
