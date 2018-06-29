@@ -117,7 +117,7 @@ _Quizzes_
 
 _Microworlds_
  - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
- - You are responsible for turning in 5 Microworld projects (there are 8 available) for the term.  The due dates for each vary. See p. 157 (Appendix C) of your lab manual for more information.
+ - You are responsible for turning in 5 Microworld projects (there are 7 available; we are skipping lab 3's because of the holiday) for the term.  The due dates for each vary. See p. 157 (Appendix C) of your lab manual for more information.
  - These must be your own work.
 
 _Microscope Skills Test_
