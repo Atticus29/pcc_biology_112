@@ -152,8 +152,8 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
 |9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
 |16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (on lab 4)|
-|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5); Skills tests begin|
-|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests|
+|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5)|
+|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
 |6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
 |13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression (cont.)|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
