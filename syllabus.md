@@ -91,10 +91,10 @@ Grade calculations:  Please check on D2L to make sure your grades are entered co
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
 |Quizzes|7 @ 20 pts each, lowest score dropped|120 pts|
-|Postlab Homework Assignments|10 @ 10 pts each|100 pts|
+|Postlab Homework Assignments|9 @ 10 pts each|90 pts|
 |Skills Test|1 @ 30 pts|30 pts|
 |Microworlds Project|5 @ 10 pts each|50 pts|
-|**Total**||300 pts|
+|**Total**||290 pts|
 
 _Postlab homework assignments_
  - There are 9 post-lab homework assignments (one less than the usual 10 because of July 4 holiday).
