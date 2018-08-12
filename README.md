@@ -139,7 +139,7 @@ _Microscope Skills Test_
 |23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
 |30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
 |6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
-|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
+|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein (if time permits)/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
 |Monday, 20 Aug., 2018, 08:30 AM-10:50 AM|9|**Comprehensive Final Exam**|NA|||
 
 #### Lab
