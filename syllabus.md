@@ -139,7 +139,7 @@ _Microscope Skills Test_
 |23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
 |30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
 |6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
-|13 Aug, 2018|8|Molecular Basis of Inheritance; Gene Expression: From Gene to Protein (if time permits)/**EXAM 3 (Wed) Gene Expression not covered**|13,14||
+|13 Aug, 2018|8|Chromosomal Basis of Inheritance (recombination distance video because Mark was sick); Molecular Basis of Inheritance; /**EXAM 3 (Wed) Gene Expression not covered**|12,13||
 |Monday, 20 Aug., 2018, 08:30 AM-10:50 AM|9|**Comprehensive Final Exam**|NA|||
 
 #### Lab
@@ -155,7 +155,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5)|
 |30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
 |6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
-|13 Aug, 2018|8|Monday-9. Inheritance (cont.) and 10. DNA, Replication, and Gene Expression structure/ Wednesday-10. DNA, Replication, and Gene Expression (cont.)|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
+|13 Aug, 2018|8|Monday-9. Inheritance (cont. from home) (Mark sick)/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
 |20 Aug, 2018|9|Finals Week|No work accepted during finals week|
 
 ---
