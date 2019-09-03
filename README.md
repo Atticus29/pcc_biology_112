@@ -28,7 +28,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ### Lecture Instruction Materials
 - Campbell-Biology in Focus-Custom edition for PCC, ISBN 9781323766248 (Taken from Campbell-Biology in Focus Urry et al., 2nd ed., Pearson.)
     - The textbook changed in Fall, 2017, so older versions are unfortunately not suitable for the course anymore.
-    - You can use the MasteringBiology companion online. There are a lot of resources available for practice problems. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER59345**.
+    - You can use the MasteringBiology companion online. There are a lot of resources available for practice problems. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **TODO MBFISHER59345**.
 
 #### Socrative
 
@@ -37,21 +37,21 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ---
 ### Lab Instruction Materials
 
-- Biology 112 Laboratory Manual, Rock Creek 2017-2018. This manual is meant to be written in; a new copy is essential.
+- Biology 112 Laboratory Manual, Rock Creek TODO 2017-2018. This manual is meant to be written in; a new copy is essential.
 
 ---
 ### Class Times and Locations
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 104|MW|8:30 AM-10:50 AM|
-|Lab|Bldg. 7 Rm. 123|MW|11:30 AM-1:20 PM|
-|Office Hours|Bldg. 7 Rm. 202|M|1:30 PM - 2:30 PM|
+|Lecture|Bldg. 7 Rm. TODO|MW|TODO 8:30 AM-10:50 AM|
+|Lab|Bldg. 7 Rm. 123|TODO MW|TODO 11:30 AM-1:20 PM|
+|Office Hours|Bldg. 7 Rm. 202|TODO M|TODO 1:30 PM - 2:30 PM OR by Appointment. To set up an appointment, please email me|
 ---
 
 ### Grade Ranges
 |Letter Grade|Corresponding Percentage Range|
-|:---:|:---:|
+|:---:|:---:|TODO add more grades?
 |A|90-100%|
 |B|80-89%|
 |C|70-79%|
@@ -64,9 +64,9 @@ Lecture is worth ~700 points (this is subject to slight variation) with the foll
 
 |Graded Component|Description|Total Points|
 |:---:|:---:|:---:|
-|Exams|There will be three in-class lecture exams (175 pts each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, there are no make-up exams – no exceptions. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
-|Final Exam|The final exam will cover the remaining material and have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. It's format will be similar to the other exams, but slightly longer.|200 pts|
-|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts|
+|Exams|There will be three in-class lecture exams (175 pts each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
+|Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [TODO here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
 
 Any variation in point distribution will be announced in class.
@@ -74,7 +74,7 @@ Any variation in point distribution will be announced in class.
 #### More details about the IHOP component
 1.	Participation – Attendance as measured by Socrative submissions will count toward this grade. Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
 2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term. You must be present to complete in-class assignments. These cannot be made up – no exceptions. 
-3.	Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam. 
+3.	TODO is this true? Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam. 
 4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
@@ -82,18 +82,19 @@ Any variation in point distribution will be announced in class.
 
 BI 112 lab is worth 30% of your course grade, and the lecture is worth the remaining 70% of your grade.
 
-**You cannot pass the class without passing the lab portion**. If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture. If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course.**
+**You cannot pass the class without passing the lab portion**. If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture. If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course TODO add as quiz question.**
 
-NOTE:  Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
+NOTE: Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
+LEFT OFF HERE
 
-Grade calculations:  Please check on D2L to make sure your grades are entered correctly. If there are any discrepancies, please contact me immediately. I recommend you keep all of your returned tests and assignments in case a problem arises; instructors make mistakes all of the time!
+Grade calculations: Please check on D2L to make sure your grades are entered correctly. If there are any discrepancies, please contact me immediately. I recommend you keep all of your returned tests and assignments in case a problem arises; instructors make mistakes all of the time!
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|7 @ 20 pts each, lowest score dropped|120 pts|
-|Postlab Homework Assignments|9 @ 10 pts each|90 pts|
-|Skills Test|1 @ 30 pts|30 pts|
-|Microworlds Project|5 @ 10 pts each|50 pts|
+|Quizzes|TODO 7 @ 20 pts each, lowest score dropped (more details below)|120 pts|
+|Postlab Homework Assignments|TODO 9 @ 10 pts each (more details below)|90 pts|
+|Skills Test|1 @ 30 pts (more details below)|30 pts|
+|Microworlds Project|5 @ 10 pts each (more details below)|50 pts|
 |**Total**||290 pts|
 
 _Postlab homework assignments_
@@ -214,6 +215,9 @@ A student may receive an I for a course if they miss an essential part of the cl
 ### Desire2Learn
 Lecture material and quiz assignments as well as course announcements will all occur on D2L.
  **You are responsible for all information on Desire2Learn**. Please check it frequently.
+
+### Re-grad policy
+TODO insert re-grade policy here
 
 ### Students with Disabilities
  PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
