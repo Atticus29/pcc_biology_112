@@ -64,9 +64,9 @@ Lecture is worth ~700 points (this is subject to slight variation) with the foll
 
 |Graded Component|Description|Total Points|
 |:---:|:---:|:---:|
-|Exams|There will be three in-class lecture exams (175 pts each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
-|Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts|
-|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [TODO here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts|
+|Exams|There will be three in-class lecture exams (175 pts. each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
+|Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts.|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [TODO here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts.|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
 
 Any variation in point distribution will be announced in class.
@@ -85,40 +85,39 @@ BI 112 lab is worth 30% of your course grade, and the lecture is worth the remai
 **You cannot pass the class without passing the lab portion**. If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture. If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course TODO add as quiz question.**
 
 NOTE: Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
-LEFT OFF HERE
 
 Grade calculations: Please check on D2L to make sure your grades are entered correctly. If there are any discrepancies, please contact me immediately. I recommend you keep all of your returned tests and assignments in case a problem arises; instructors make mistakes all of the time!
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|TODO 7 @ 20 pts each, lowest score dropped (more details below)|120 pts|
-|Postlab Homework Assignments|TODO 9 @ 10 pts each (more details below)|90 pts|
-|Skills Test|1 @ 30 pts (more details below)|30 pts|
-|Microworlds Project|5 @ 10 pts each (more details below)|50 pts|
-|**Total**||290 pts|
+|Quizzes|TODO 7 @ 20 pts. each, lowest score dropped (more details below)|120 pts.|
+|Postlab Homework Assignments|TODO 9 @ 10 pts. each (more details below)|90 pts.|
+|Skills Test|1 @ 30 pts. (more details below)|30 pts.|
+|Microworlds Project|5 @ 10 pts. each (more details below)|50 pts.|
+|**Total**||290 pts.|
 
 _Postlab homework assignments_
- - There are 9 post-lab homework assignments (one less than the usual 10 because of July 4 holiday).
+ - There are TODO 9 post-lab homework assignments (TODO one less than the usual 10 because of TODO holiday).
  - Each post-lab is worth 10 points. 
- - Post-labs are due at the beginning of the lab on **Mondays** (except for postlabs 8 and 9, which are due in class at the end of lab).
+ - Post-labs are due at the beginning of the lab on **TODO Mondays** (TODO except for postlabs 8 and 9, which are due in class at the end of lab).
  - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab. 
  - These are to be your own work.
  - The postlabs may be marked down up to 75% for the following reasons:
-   - Student arrives after exercise starts or student leaves before exercise finishes: -25%
+   - Student arrives after exercise starts or student leaves before exercise finishes and/or exit tickets are shown to instructor: -25%
    - Student is present but does not participate fully: -25%
    - Student does not clean up after themselves or their group: -25%
- - If you do not attend a lab (both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
+ - If you do not attend a lab (TODO both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
 
 _Quizzes_
- - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **Wednesday** lab, **except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
+ - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **TODO Wednesday** lab, **TODO except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
  - Each quiz is worth 20 points. Your lowest quiz score is dropped. 
- - Quizzes are given during the first 10 to 15 minutes of class. If you are late, you have only the time remaining to complete the quiz. Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
+ - Quizzes are given during the first 10 - 15 minutes of class. If you are late, you have only the time remaining to complete the quiz. Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
  - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
- - These quizzes are challenging!  This is how we assess your understanding of the lab material. The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz. 
+ - **These quizzes are challenging**! This is how we assess your understanding of the lab material. The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.
 
 _Microworlds_
  - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
- - You are responsible for turning in 5 Microworld projects (there are 7 available; we are skipping lab 3's because of the holiday) for the term. The due dates for each vary. See p. 157 (Appendix C) of your lab manual for more information.
+ - You are responsible for turning in 5 Microworld projects (there are 7 available; TODO we are skipping lab 3's because of the holiday) for the term. The due dates for each vary; I will be very communicative about this. See p. 157 (Appendix C) of your lab manual for more information.
  - These must be your own work.
 
 _Microscope Skills Test_
@@ -129,12 +128,12 @@ _Microscope Skills Test_
 
 ### Course Schedule
 
-#### Lecture
+#### Lecture TODO modify and pace better
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
 |Mon., Sep. 23, 2019|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
+|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/**TODO No lecture or lab on July 4**|3||
 |Mon., Oct. 7, 2019|3|A Tour of the Cell/**EXAM 1 (Wed)**|4||
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
@@ -142,26 +141,24 @@ _Microscope Skills Test_
 |Mon., Nov. 4, 2019|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
 |Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance ; Molecular Basis of Inheritance; /**EXAM 3 (Wed) Gene Expression not covered**|12,13||
 |Mon., Nov. 18, 2019|9|**Comprehensive Final Exam**|NA|||
-|Mon., Nov. 25, 2019|10|**Comprehensive Final Exam**|NA|||
+|Mon., Nov. 25, 2019|10|**Comprehensive Final Exam**/ TODO No class (holiday)|NA|||
 |Mon., Dec. 2, 2019|11|**Comprehensive Final Exam**|NA|||
 |Mon., Dec. 9, 2019 TODO Time and Location|11|**Comprehensive Final Exam**|NA|||
 
-#### Lab
+#### Lab TODO modify and pace better
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
-
-
 
 |Date (Monday)|Week|Topics (M/W)|Graded items due|
 |:---:|:---:|:---:|:---:|
 |Mon., Sep. 23, 2019|1|Monday-1. Process of Scientific Inquiry, Measurement & Metrics/ Wednesday-2. Microscopes (Ex. 1-3,7, 4 if time)||
 |Mon., Sep. 30, 2019|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
 |Mon., Oct. 7, 2019|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
-|Mon., Oct. 14, 2019|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (on lab 4)|
-|Mon., Oct. 21, 2019|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5)|
+|Mon., Oct. 14, 2019|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (TODO on lab 4)|
+|Mon., Oct. 21, 2019|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (TODO on lab 5 and current week)/ TODO Quiz 4 (on lab 5)|
 |Mon., Oct. 28, 2019|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
 |Mon., Nov. 4, 2019|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
-|Mon., Nov. 11, 2019|8|Monday-9. Inheritance (cont. from home) (Mark sick)/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
+|Mon., Nov. 11, 2019|8|Monday-9. Inheritance/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
 |Mon., Nov. 18, 2019|9|TODO Fix Finals Week|No work accepted during finals week|
 |Mon., Nov. 25, 2019|10|TODO Fix Finals Week|No work accepted during finals week|
 |Mon., Dec. 2, 2019|11|TODO Fix Finals Week|No work accepted during finals week|
