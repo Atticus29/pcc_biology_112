@@ -168,40 +168,47 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 #### Intended Outcomes for the Course
 A student will collaboratively and independently:
 
-- Analyze their individual thinking and learning styles & how their styles can be integrated with methods used in science.- Use an understanding of biological and chemical principles of cell function as a base for further learning in the health sciences.- Build on the laboratory research experience to organize data and information in order to draw conclusions and identify new investigative paths.- Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
+- Analyze their individual thinking and learning styles & how their styles can be integrated with methods used in science.
+- Use an understanding of biological and chemical principles of cell function as a foundation for further learning in the health sciences.
+- Build on the laboratory research experience to organize data and information in order to draw conclusions and identify new investigative paths.
+- Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
 
 ---
 #### Attendance and Participation
 
-Full participation in lab is a requirement for BI 112. Attendance means completing the assigned exercises, participating in activities that require group effort, recording observations and data in your lab manual, and cleaning up when you are finished. I will keep track of your participation, so please do not leave lab early. If you do not participate fully or you come in late/leave early, you will not receive full credit for that week’s homework.
-In the event that you need to miss a lab, please contact me in advance. You can attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz. Please contact the instructor of the lab you would like to attend in advance and ask permission (include me in the email). Please note: the instructor is not required to let you attend their lab.**Class Cancellation**: In the event that a lab is cancelled, your instructor will explain how the homework, quiz, etc. for that lab will be managed.
+Full participation in lab is a requirement for BI 112. Attendance means completing the assigned exercises, participating in activities that require group effort, recording observations and data in your lab manual, and cleaning up when you are finished. I will keep track of your participation using "exit tickets", which entail showing me various results and/or responses to questions or prompts from the lab. Leaving lab before showing me your exit ticket will result in loss of participation credit for the lab, so please do not leave lab without checking in with me. If you do not participate fully or you come in late, this will also result in some loss of participation credit.
 
-Note: Labs that are cancelled due to college schedules, weather, or other unanticipated events may result in slight deviations from the schedule, but it is our intention to keep the point distribution close to the original values.
+In the event that you need to miss a lab, please contact me in advance. Instructors make a strong effort to coordinate which labs happen when, and you can often attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz. Please contact the instructor of the lab you would like to attend in advance and ask permission; include me in the email. Please note: the instructor is not required to let you attend their lab.
+
+**Class Cancellation**: In the event that a lab is cancelled, I will explain how the homework, quiz, etc. for that lab will be managed.
+
+Note: Labs that are cancelled due to college schedules, weather, or other unanticipated events may result in slight deviations from the schedule, but it is our intention to keep the point distribution close to the original values. I will always alert you of any schedule updates on D2L.
 
 ---
 ### Late work, absences, extra credit, and missed exams
 
 #### Late Assignments
-All assignments are due at the _beginning of class_ on the due date unless otherwise noted. If you turn materials in late in class, even if you are just tardy or forgot to turn it in, they will be marked down as if they are a day late. Late assignments will be marked down 10% each **day** after the due date. Late assignments will not be accepted beyond 1 week of their due date. You are encouraged to turn in late work electronically if that expedites the process.
+All assignments are due at the _beginning of class_ on the due date unless otherwise noted. If you turn materials in late in class, even if you are just tardy or forgot to turn it in, they will be marked down as if they are a day late. Late assignments will be marked down 10% each **day** after the due date. Late assignments will not be accepted beyond 1 week of their due date. You are encouraged to turn in late work electronically if that expedites the process (photos are usually acceptable).
 
-No late online online assignments will be accepted. If you have computer problems, you must contact me before the due date.
+No late online online assignments will be accepted. If you have computer problems, you must contact me before the due date. Note that computers are available on campus.
 
 No materials will be accepted after the last day of class (i.e., no materials will be accepted during finals week).
 
 #### Missed labs
 If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty. All other late postlabs follow the late assignment policy described above.
 
-If you do not attend a lab (both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment.
+
+If you do not attend a lab (TODO both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment.
 
 Make up quizzes for absences are never allowed.
 
 #### Extra credit
-As a matter of department policy, there will be no extra credit assignments or activities.
+As a matter of department policy, there will be no extra credit assignments or activities. This is beyond my control.
 
 #### Missed exams
-Because I drop your lowest exam score, no make-up exams are given – no exceptions!!
+Because I drop your lowest exam score, no make-up exams are given – no exceptions!
 
-If the student misses the final exam for a documented reason acceptable to the instructor, the instructor may assign an I. The instructor is not required to administer a make-up final exam if the student misses the final exam for a reason that is not acceptable to the instructor and is not documented. The instructor reserves the right to administer a make-up final exam that differs from the original exam and/or to deduct points from the make-up final exam.
+If the student misses the final exam for a documented reason acceptable to the instructor, the instructor may assign an I (incomplete). The instructor is not required to administer a make-up final exam if the student misses the final exam for a reason that is not acceptable to the instructor and is not documented. The instructor reserves the right to administer a make-up final exam that differs from the original exam and/or to deduct points from the make-up final exam.
 
 ---
 
@@ -217,19 +224,21 @@ Lecture material and quiz assignments as well as course announcements will all o
 TODO insert re-grade policy here
 
 ### Students with Disabilities
- PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
+ PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
 
  ---
 
 ### Title IX/Non-Discrimination statement
-Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect. if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
+Portland Community College is committed to creating and fostering a learning and working environment based on open communication and mutual respect. if you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
 
----
+---
 ### Dropping/Withdrawing and Grade Options
-Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes). 	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
+Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes). 
+TODO spacing?	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
+
 ---
 ### Sanctuary College
-PCC is a sanctuary college. For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
+PCC is a sanctuary college. For more information, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
 
 ---
 ### Academic Integrity
@@ -241,7 +250,7 @@ Students are expected to be honest and ethical in their academic work. Cheating,
 ### Academic Courtesy
 Students must demonstrate respect for fellow students during the class period. Please keep in mind that your classmates may have beliefs and opinions that differ from your own. I expect you to show courtesy toward everyone.
 
-Refrain from talking and other distracting behavior.
+Refrain from talking during lecture and other distracting behavior.
 
 Please come to class on time. If you do come to class late, please try to be as unobtrusive as possible. If you must leave early, sit near the exit and try to wait for a break to leave. Leaving in the middle of lecture can be very disruptive.
 
@@ -251,20 +260,20 @@ Students are expected to help maintain the appearance of the classroom. Please d
 
 #### Academic Courtesy and Classroom Discussions
 
-Questions and discussions are integral parts of this class!  We have 4 hours of lecture each week and discussions help keep students (and the instructor!) engaged in the material. Many students learn new material by integrating it with their existing knowledge and by placing it in a specific and personal context. Therefore, some questions may sound ‘off-topic’ to some students because they have different view or understanding of the material. However, questions and comments that are not specifically in the book or notes may be just as important to student learning as questions directly from the material in the book.
+Questions and discussions are integral parts of this class!  We have TODO 4 hours of lecture each week and discussions help keep students (and the instructor!) engaged in the material. Many students learn new material by integrating it with their existing knowledge and by placing it in a specific and personal context. Therefore, some questions may sound ‘off-topic’ to some students because they have different view or understanding of the material. However, questions and comments that are not specifically in the book or notes may be just as important to student learning as questions directly from the material in the book.
 
-On the other hand, please try to limit your questions to the section we are covering and respect other people in the class. Some questions may be more appropriate to discuss during office hours. Please keep in mind that all students have different learning styles. I teach to as many of these styles as possible while making sure we cover the necessary material to keep us on schedule.
+On the other hand, please try to limit your questions to the section we are covering and respect other people in the class. Some questions may be more appropriate to discuss during office hours. Please keep in mind that all students have different learning styles. I teach to as many of these styles as possible while making sure we cover the necessary material to keep us on schedule; I may ask you to take a question "off air", in which case we can discuss it after lecture time or in office hours.
 
 ---
 
 ### Strategies for success in a biology class
 
-Science doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful.
+Science doesn't come naturally to most people; it is a skill that is aquired, rather than an ability somebody either has or does not have. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful.
 
 - **Work hard during lectures** This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
 
 
-- **Be an active learner** Skim the book and lecture notes before class. Come to all lectures. While you take notes in class, write down questions you have about the lecture or which are brought to mind by the lecture. Identify points in the lecture that you think are the main points. Review your notes shortly after class. Compare notes with a classmate. Do your notes agree? While you read, pause and reflect on the material. How does it fit with what you know already? Are  you memorizing facts or learning concepts?
+- **Be an active learner** Skim the book and lecture notes _before_  class. Come to all lectures. While you take notes in class, write down questions you have about the lecture or which are brought to mind by the lecture. Identify points in the lecture that you think are the main points. Review your notes shortly after class. Compare notes with a classmate. Do your notes agree? While you read, pause and reflect on the material. How does it fit with what you know already? Are  you memorizing facts or learning concepts?
 
 - **Figure out and use your learning strengths** Knowing your learning style can help you in any class. Some people learn best by reading, others by writing, others by drawing, others by talking. Use the techniques that work best for you. (Even better, use a combination of techniques!)
 	To learn more about student learning styles, go to http://www.learning-styles-online.com/,
@@ -274,14 +283,15 @@ http://www.personal.psu.edu/bxb11/LSI/LSI.htm, or http://www.edutopia.org/multip
 
 - **Learn from your mistakes** Take the practice tests and quizzes available through the text book. If you get something wrong, try to determine why. This is especially true for exams. Spend time analyzing your exam results. It’s easy to say the question was too difficult – it’s more effective to figure out why the question was difficult.
 
-- **Take responsibility**  You are the person in control of your performance in class. I don’t give you a grade - I just report the grade you earn.
+- **Take responsibility** You are the person in control of your performance in class. I don’t give you a grade - I just report the grade you earn.
 
-- **Spend time on this course** Schedule and spend time at least every other day to read and review course materials, re-write your notes and think. Much of this course builds upon earlier portions of the course. Try not to fall behind.
+- **Spend time on this course** Schedule and spend time at least every other day to read and review course materials, re-write your notes and think. Much of this course builds upon earlier portions of the course. Try your best not to fall behind.
 
 - **Take advantage of the resources available to you** There are many services available to help you in all aspects of your education. Don’t forget that your book and the online content are excellent resources! You should take advantage of all the tools that come with your book.
 
 - **Ask me for help if you get confused** Don’t be shy about asking questions in class! If you have a question, it’s likely that other students are wondering the same thing. Please come see me during office hours! I’m there to help you with the material.
 
-- **Write to learn** This is probably my best (and least-often-followed-through?) advice. When you’re reading the chapter, write about each section after you’re done reading. When you’re studying for the exams, write and answer your own practice exams. You will be shocked how often the writing process helps you understand and/or realize when you don’t understand a topic. Write write write.
+- **Write to learn** This is probably my best (and least-often-followed-through?) advice. When you’re reading the chapter, write about each section after you’re done reading. When you’re studying for the exams, **write and answer your own practice exams**. You will be shocked how often the writing process helps you understand and/or realize when you don’t understand a topic. Write write write.
 
-- **Success here=future rewards**  In BI 112 our goal is to make sure that you have a good background in basic biology and that you are well-prepared for the 200-level courses you will need to go on into Health Science.
+- **Success here = future rewards**  In BI 112 our goal is to make sure that you have a good background in basic biology and that you are well-prepared for the 200-level courses you will need to go on into the Health Sciences.
+
