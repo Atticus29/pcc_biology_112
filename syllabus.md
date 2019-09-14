@@ -1,5 +1,5 @@
 # BI112 : Cell Biology for Health Occupations
-## CRN TODO 30174
+## CRN 41682
 
 ---
 # Syllabus: Fall Quarter 2019
@@ -44,9 +44,9 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. TODO|MW|TODO 8:30 AM-10:50 AM|
-|Lab|Bldg. 7 Rm. 123|TODO MW|TODO 11:30 AM-1:20 PM|
-|Office Hours|Bldg. 7 Rm. 202|TODO M|TODO 1:30 PM - 2:30 PM OR by Appointment. To set up an appointment, please email me|
+|Lecture|Bldg. 7 Rm. 106|MW|2:00 PM-3:50 PM|
+|Lab|Bldg. 7 Rm. 123|W|11:00 AM-1:50 PM|
+|Office Hours|Bldg. 7 Rm. 202|M|12:45 PM - 1:45 PM OR by Appointment. To set up an appointment, please email me|
 ---
 
 ### Grade Ranges
