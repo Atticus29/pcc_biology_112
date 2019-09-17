@@ -90,29 +90,36 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|TODO 7 @ 20 pts. each, lowest score dropped (more details below)|120 pts.|
-|Postlab Homework Assignments|TODO 9 @ 10 pts. each (more details below)|90 pts.|
-|Skills Test|1 @ 30 pts. (more details below)|30 pts.|
+|Quizzes|9 @ 15 pts. each, lowest score dropped (more details below)|120 pts.|
+|Postlab Homework Assignments|10 @ 10 pts. each (more details below)|100 pts.|
+|Graphing Assignment|1 @ 10 pts. (more details below)|10 pts.|
+|Skills Test|1 @ 20 pts. (more details below)|20 pts.|
 |Microworlds Project|5 @ 10 pts. each (more details below)|50 pts.|
-|**Total**||290 pts.|
+|**Total**||300 pts.|
+
+_Graphing Assignment_
+
+The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). TODO flesh out.
 
 _Postlab homework assignments_
- - There are TODO 9 post-lab homework assignments (TODO one less than the usual 10 because of TODO holiday).
+
+ - There are 10 post-lab homework assignments.
  - Each post-lab is worth 10 points.
- - Post-labs are due at the beginning of the lab on **TODO Mondays** (TODO except for postlabs 8 and 9, which are due in class at the end of lab).
+ - Post-labs are due at the beginning of the lab on **Wednesdays** (except for postlab 10, which is due in class at the end of lab).
  - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab.
  - These are to be your own work.
  - The postlabs may be marked down up to 75% for the following reasons:
    - Student arrives after exercise starts or student leaves before exercise finishes and/or exit tickets are shown to instructor: -25%
    - Student is present but does not participate fully: -25%
-   - Student does not clean up after themselves or their group: -25%
- - If you do not attend a lab (TODO both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
+   - Student does not clean up after themselves or their group, including improperly putting the microscope away: -25%
+ - If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment (i.e., you must complete a lab to get credit for the homework).
 
 _Quizzes_
- - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **TODO Wednesday** lab, **TODO except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
- - Each quiz is worth 20 points. Your lowest quiz score is dropped.
+
+ - There are nine weekly quizzes (starting from week 2). Each quiz take place first thing on **Wednesday** lab.
+ - Each quiz is worth 15 points. Your lowest quiz score is dropped.
  - Quizzes are given during the first 10 - 15 minutes of class. If you are late, you have only the time remaining to complete the quiz. Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
- - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
+ - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there will be a few questions about measurements and/or the metric system on each quiz.
  - **These quizzes are challenging**! This is how we assess your understanding of the lab material. The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.
 
 _Microworlds_
@@ -121,8 +128,9 @@ _Microworlds_
  - These must be your own work.
 
 _Microscope Skills Test_
-- Once during the quarter, I'll be evaluating your ability to talk about and properly handle/use a microscope.
--	Please see p. 156 (Appendix B) of your lab manual for more information and a checklist to help you prepare.
+- Once during the quarter, I'll be evaluating your ability to talk about, properly handle/use a microscope, and calculate sizes of objects observed in the field of view.
+-	Please see (Appendix B) of your lab manual for more information and a checklist to help you prepare.
+- The skills tests will be administered to you individually during lab time on one of the last four weeks of lab TODO update schedule
 
 ---
 
