@@ -73,8 +73,8 @@ Any variation in point distribution will be announced in class.
 
 #### More details about the IHOP component
 1.	Participation – Attendance as measured by Socrative submissions will count toward this grade. Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
-2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term. You must be present to complete in-class assignments. These cannot be made up – no exceptions. 
-3.	TODO is this true? Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam. 
+2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term. You must be present to complete in-class assignments. These cannot be made up – no exceptions.
+3.	TODO is this true? Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam.
 4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
@@ -98,9 +98,9 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 
 _Postlab homework assignments_
  - There are TODO 9 post-lab homework assignments (TODO one less than the usual 10 because of TODO holiday).
- - Each post-lab is worth 10 points. 
+ - Each post-lab is worth 10 points.
  - Post-labs are due at the beginning of the lab on **TODO Mondays** (TODO except for postlabs 8 and 9, which are due in class at the end of lab).
- - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab. 
+ - The content covered comprises ~80% from material from the previous lab and ~20% from the current week’s lab.
  - These are to be your own work.
  - The postlabs may be marked down up to 75% for the following reasons:
    - Student arrives after exercise starts or student leaves before exercise finishes and/or exit tickets are shown to instructor: -25%
@@ -110,7 +110,7 @@ _Postlab homework assignments_
 
 _Quizzes_
  - There are seven weekly quizzes (starting from week 2). Each quiz take place first thing on **TODO Wednesday** lab, **TODO except for week 2's quiz, which will be on Monday because of the July 4 holiday**.
- - Each quiz is worth 20 points. Your lowest quiz score is dropped. 
+ - Each quiz is worth 20 points. Your lowest quiz score is dropped.
  - Quizzes are given during the first 10 - 15 minutes of class. If you are late, you have only the time remaining to complete the quiz. Students must take the quiz during the scheduled quiz time - **there are no early or make up quizzes**.
  - The material covered in the previous lab(s) will be tested on the quiz. Each quiz's content will resume where the last quiz's coverage ended. In addition, there may be a few questions about measurements and/or the metric system.
  - **These quizzes are challenging**! This is how we assess your understanding of the lab material. The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.
@@ -133,36 +133,36 @@ _Microscope Skills Test_
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
 |Mon., Sep. 23, 2019|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/**TODO No lecture or lab on July 4**|3||
-|Mon., Oct. 7, 2019|3|A Tour of the Cell/**EXAM 1 (Wed)**|4||
+|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/A Tour of the Cell|3,4||
+|Mon., Oct. 7, 2019|3|A Tour of the Cell (cont.)/**EXAM 1 (Wed)**|4||
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
 |Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
-|Mon., Nov. 4, 2019|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
-|Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance ; Molecular Basis of Inheritance; /**EXAM 3 (Wed) Gene Expression not covered**|12,13||
-|Mon., Nov. 18, 2019|9|**Comprehensive Final Exam**|NA|||
-|Mon., Nov. 25, 2019|10|**Comprehensive Final Exam**/ TODO No class (holiday)|NA|||
-|Mon., Dec. 2, 2019|11|**Comprehensive Final Exam**|NA|||
+|Mon., Nov. 4, 2019|7|Meiosis and Sexual Life Cycles (cont.); Mendel and the Gene Idea|10, 11||
+|Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|12||
+|Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance|12, 13|||
+|Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|||
+|Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein|14|||
 |Mon., Dec. 9, 2019 TODO Time and Location|11|**Comprehensive Final Exam**|NA|||
 
 #### Lab TODO modify and pace better
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
 
-|Date (Monday)|Week|Topics (M/W)|Graded items due|
+|Date (Wednesday)|Week|Topics|Graded items due|
 |:---:|:---:|:---:|:---:|
-|Mon., Sep. 23, 2019|1|Monday-1. Process of Scientific Inquiry, Measurement & Metrics/ Wednesday-2. Microscopes (Ex. 1-3,7, 4 if time)||
-|Mon., Sep. 30, 2019|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
-|Mon., Oct. 7, 2019|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
-|Mon., Oct. 14, 2019|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (TODO on lab 4)|
-|Mon., Oct. 21, 2019|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (TODO on lab 5 and current week)/ TODO Quiz 4 (on lab 5)|
-|Mon., Oct. 28, 2019|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
-|Mon., Nov. 4, 2019|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
-|Mon., Nov. 11, 2019|8|Monday-9. Inheritance/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
-|Mon., Nov. 18, 2019|9|TODO Fix Finals Week|No work accepted during finals week|
-|Mon., Nov. 25, 2019|10|TODO Fix Finals Week|No work accepted during finals week|
-|Mon., Dec. 2, 2019|11|TODO Fix Finals Week|No work accepted during finals week|
-|Mon., Dec. 9, 2019|12|Finals Week|No work accepted during finals week|
+|Wed., Sep. 25, 2019|1|1. Process of Scientific Inquiry, Measurement & Metrics||
+|Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
+|Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and current week)/ Quiz 2|
+|Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 4  and current week)/ Quiz 3 (TODO on lab 4)|
+|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (TODO on lab 5 and current week)/ TODO Quiz 4 (on lab 5)|
+|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
+|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
+|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
+|Wed., Nov. 20, 2019|9|9. Inheritance|TODO|
+|Wed., Nov. 27, 2019|10|No Lab (Holiday)||
+|Wed., Dec. 4, 2019|11|DNA Structure|TODO|
+|Wed., Dec. 11, 2019|12|Finals Week|No work accepted during finals week|
 
 ---
 #### Intended Outcomes for the Course
@@ -233,7 +233,7 @@ Portland Community College is committed to creating and fostering a learning and
 
 ---
 ### Dropping/Withdrawing and Grade Options
-Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes). 
+Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes).
 TODO spacing?	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
 
 ---
@@ -294,4 +294,3 @@ http://www.personal.psu.edu/bxb11/LSI/LSI.htm, or http://www.edutopia.org/multip
 - **Write to learn** This is probably my best (and least-often-followed-through?) advice. When you’re reading the chapter, write about each section after you’re done reading. When you’re studying for the exams, **write and answer your own practice exams**. You will be shocked how often the writing process helps you understand and/or realize when you don’t understand a topic. Write write write.
 
 - **Success here = future rewards**  In BI 112 our goal is to make sure that you have a good background in basic biology and that you are well-prepared for the 200-level courses you will need to go on into the Health Sciences.
-
