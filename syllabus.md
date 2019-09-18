@@ -123,11 +123,13 @@ _Quizzes_
  - **These quizzes are challenging**! This is how we assess your understanding of the lab material. The questions in the lab, the practice questions, and the homework assignment can help you prepare for the quiz.
 
 _Microworlds_
+
  - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
  - You are responsible for turning in 5 Microworld projects (there are 7 available; TODO we are skipping lab 3's because of the holiday) for the term. The due dates for each vary; I will be very communicative about this. See p. 157 (Appendix C) of your lab manual for more information.
  - These must be your own work.
 
 _Microscope Skills Test_
+
 - Once during the quarter, I'll be evaluating your ability to talk about, properly handle/use a microscope, and calculate sizes of objects observed in the field of view.
 -	Please see (Appendix B) of your lab manual for more information and a checklist to help you prepare.
 - The skills tests will be administered to you individually during lab time on one of the last four weeks of lab TODO update schedule
@@ -136,7 +138,7 @@ _Microscope Skills Test_
 
 ### Course Schedule
 
-#### Lecture TODO modify and pace better
+#### Lecture
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
@@ -150,26 +152,26 @@ _Microscope Skills Test_
 |Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|12||
 |Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance|12, 13|||
 |Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|||
-|Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein|14|||
+|Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|||
 |Mon., Dec. 9, 2019 TODO Time and Location|11|**Comprehensive Final Exam**|NA|||
 
-#### Lab TODO modify and pace better
+#### Lab
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
 
 |Date (Wednesday)|Week|Topics|Graded items due|
 |:---:|:---:|:---:|:---:|
 |Wed., Sep. 25, 2019|1|1. Process of Scientific Inquiry, Measurement & Metrics||
-|Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
-|Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and current week)/ Quiz 2|
-|Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 4  and current week)/ Quiz 3 (TODO on lab 4)|
-|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (TODO on lab 5 and current week)/ TODO Quiz 4 (on lab 5)|
-|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
-|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
-|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
-|Wed., Nov. 20, 2019|9|9. Inheritance|TODO|
+|Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2)/ Quiz 1 (on lab 1)|
+|Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and 3)/ Quiz 2 (on lab 2)|
+|Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 3 and 4)/ Quiz 3 (on lab 3)|
+|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)|
+|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5); TODO Skills tests begin|
+|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6); Skills tests|
+|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ TODO Graphing assignment due|
+|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)|
 |Wed., Nov. 27, 2019|10|No Lab (Holiday)||
-|Wed., Dec. 4, 2019|11|DNA Structure|TODO|
+|Wed., Dec. 4, 2019|11|10. DNA Structure|Postlabs 9 (on lab 9) and 10 (on lab 10) due in lab/ Quiz 9 (on lab 9)|
 |Wed., Dec. 11, 2019|12|Finals Week|No work accepted during finals week|
 
 ---
