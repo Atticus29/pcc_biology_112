@@ -37,7 +37,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ---
 ### Lab Instruction Materials
 
-- Biology 112 Laboratory Manual, Rock Creek TODO 2017-2018. This manual is meant to be written in; a new copy is required.
+- Biology 112 Laboratory Manual, Rock Creek Fall 2019. This manual is meant to be written in; a new copy is required.
 
 ---
 ### Class Times and Locations
@@ -51,7 +51,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 
 ### Grade Ranges
 |Letter Grade|Corresponding Percentage Range|
-|:---:|:---:|TODO add more grades?
+|:---:|:---:|
 |A|90-100%|
 |B|80-89%|
 |C|70-79%|
