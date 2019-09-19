@@ -37,7 +37,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ---
 ### Lab Instruction Materials
 
-- Biology 112 Laboratory Manual, Rock Creek TODO 2017-2018. This manual is meant to be written in; a new copy is essential.
+- Biology 112 Laboratory Manual, Rock Creek TODO 2017-2018. This manual is meant to be written in; a new copy is required.
 
 ---
 ### Class Times and Locations
@@ -66,8 +66,9 @@ Lecture is worth ~700 points (this is subject to slight variation) with the foll
 |:---:|:---:|:---:|
 |Exams|There will be three in-class lecture exams (175 pts. each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
 |Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts.|
-|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [TODO here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts.|
-|In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding and to learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts.|
+|In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding, and learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
+|**Total**|---|**700 pts.**|
 
 Any variation in point distribution will be announced in class.
 
@@ -82,7 +83,7 @@ Any variation in point distribution will be announced in class.
 
 BI 112 lab is worth 30% of your course grade, and the lecture is worth the remaining 70% of your grade.
 
-**You cannot pass the class without passing the lab portion**. If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture. If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course TODO add as quiz question.**
+**You cannot pass the class without passing the lab portion**. If a student receives an F in the lab, they will receive an F for the class regardless of their score in lecture. If a student receives a D in the lab, they will receive a D or an F for the class depending on their lecture score. **Students who have more than 2 lab absences will receive an F for the course.**
 
 NOTE: Students must pass BI 112 with a C or above to be admitted into courses for which BI 112 is a prerequisite.
 
@@ -99,7 +100,7 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 
 _Graphing Assignment_
 
-The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). TODO flesh out.
+The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). I will publish more information about this assignment as the quarter goes on. TODO.
 
 _Postlab homework assignments_
 
@@ -124,8 +125,15 @@ _Quizzes_
 
 _Microworlds_
 
- - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to find and focus on objects in the microscope field of view, to record details of the sample preparation, to draw the sample, take notes about the sample, and to estimate its size.
- - You are responsible for turning in 5 Microworld projects (there are 7 available; TODO we are skipping lab 3's because of the holiday) for the term. The due dates for each vary; I will be very communicative about this. See p. 157 (Appendix C) of your lab manual for more information.
+ - In BI 112, we want you to master the use and care of the microscope. We expect you to learn how to:
+	 -  find and focus on objects in the microscope field of view
+	 -  record details of the sample preparation
+	 -  draw the sample
+	 -  take notes about the sample
+	 -  estimate its size
+	 -  practice the metric system
+
+ - You are responsible for turning in 5 Microworld projects (there are 8 opportunities available) for the quarter. The worksheets can be found in the back of your lab manual. The due dates for each vary; I will be very communicative about this. See p. 157 (Appendix C) of your lab manual for more information.
  - These must be your own work.
 
 _Microscope Skills Test_
@@ -153,7 +161,7 @@ _Microscope Skills Test_
 |Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance|12, 13|||
 |Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|||
 |Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|||
-|Mon., Dec. 9, 2019 TODO Time and Location|11|**Comprehensive Final Exam**|NA|||
+|Wed., Dec. 11, 2019 2:00-3:50 PM in Rm. 106|11|**Comprehensive Final Exam**|NA|||
 
 #### Lab
 
@@ -162,14 +170,14 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Date (Wednesday)|Week|Topics|Graded items due|
 |:---:|:---:|:---:|:---:|
 |Wed., Sep. 25, 2019|1|1. Process of Scientific Inquiry, Measurement & Metrics||
-|Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2)/ Quiz 1 (on lab 1)|
-|Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and 3)/ Quiz 2 (on lab 2)|
-|Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 3 and 4)/ Quiz 3 (on lab 3)|
-|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)|
-|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5); TODO Skills tests begin|
-|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6); Skills tests|
-|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ TODO Graphing assignment due|
-|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)|
+|Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2)/ Quiz 1 (on lab 1)/ Microworlds Cheek cells|
+|Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and 3)/ Quiz 2 (on lab 2)/ Microworlds Potato cells|
+|Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 3 and 4)/ Quiz 3 (on lab 3)/ Microworlds Protist of choice|
+|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)/ Microworlds _Elodea_|
+|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5)/Microworlds Villi of small intestine/ TODO Skills tests begin|
+|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6)/ Microworlds Yeast/ Skills tests|
+|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ Microworlds Onion root/ TODO Graphing assignment due|
+|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)/ Microworlds _Sordaria_ |
 |Wed., Nov. 27, 2019|10|No Lab (Holiday)||
 |Wed., Dec. 4, 2019|11|10. DNA Structure|Postlabs 9 (on lab 9) and 10 (on lab 10) due in lab/ Quiz 9 (on lab 9)|
 |Wed., Dec. 11, 2019|12|Finals Week|No work accepted during finals week|
@@ -184,11 +192,15 @@ A student will collaboratively and independently:
 - Use scientific vocabulary and an understanding of the scientific method to critically evaluate current health issues in our society.
 
 ---
+#### CCOG
+[Course Content and Outcomes Guide here](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=112)
+
+---
 #### Attendance and Participation
 
-Full participation in lab is a requirement for BI 112. Attendance means completing the assigned exercises, participating in activities that require group effort, recording observations and data in your lab manual, and cleaning up when you are finished. I will keep track of your participation using "exit tickets", which entail showing me various results and/or responses to questions or prompts from the lab. Leaving lab before showing me your exit ticket will result in loss of participation credit for the lab, so please do not leave lab without checking in with me. If you do not participate fully or you come in late, this will also result in some loss of participation credit.
+Full participation in lab is a requirement for BI 112. Attendance means completing the assigned exercises, participating in activities that require group effort, recording observations and data in your lab manual, and cleaning up when you are finished. I will keep track of your participation using "exit tickets", which entail showing me various results and/or responses to questions or prompts from the lab. Leaving lab before showing me your exit ticket will result in loss of credit for the lab, so please do not leave lab without checking in with me. If you do not participate fully or you come in late, this will also result in some loss of participation credit.
 
-In the event that you need to miss a lab, please contact me in advance. Instructors make a strong effort to coordinate which labs happen when, and you can often attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz. Please contact the instructor of the lab you would like to attend in advance and ask permission; include me in the email. Please note: the instructor is not required to let you attend their lab.
+In the event that you need to miss a lab, please contact me in advance. Instructors make a strong effort to coordinate which labs happen when, and you can often attend another lab section during the same week (at the same campus) and the points of that quiz will be counted as a normal quiz. Please contact the instructor of the lab you would like to attend in advance and ask permission; include me in the email. Please note: the instructor is not required to let you attend their lab. In an effort to reduce burden on instructors for labs later in the week, it is department policy that we only allow these "make-up" labs once per student per quarter.
 
 **Class Cancellation**: In the event that a lab is cancelled, I will explain how the homework, quiz, etc. for that lab will be managed.
 
@@ -200,15 +212,14 @@ Note: Labs that are cancelled due to college schedules, weather, or other unanti
 #### Late Assignments
 All assignments are due at the _beginning of class_ on the due date unless otherwise noted. If you turn materials in late in class, even if you are just tardy or forgot to turn it in, they will be marked down as if they are a day late. Late assignments will be marked down 10% each **day** after the due date. Late assignments will not be accepted beyond 1 week of their due date. You are encouraged to turn in late work electronically if that expedites the process (photos are usually acceptable).
 
-No late online online assignments will be accepted. If you have computer problems, you must contact me before the due date. Note that computers are available on campus.
+No late online assignments will be accepted. If you have computer problems, you must contact me before the due date. Note that computers are available on campus.
 
 No materials will be accepted after the last day of class (i.e., no materials will be accepted during finals week).
 
 #### Missed labs
-If you miss a lab, I will accept the postlab that was due the day you missed during the next week at the beginning of class without penalty. All other late postlabs follow the late assignment policy described above.
+If you miss a lab, I will accept the postlab that was due the day you missed during the next week's lab at the beginning of class without penalty. All other late postlabs follow the late assignment policy described above.
 
-
-If you do not attend a lab (TODO both Monday and Wednesday), you cannot receive credit for that lab’s postlab assignment.
+If you do not attend a lab, you cannot receive credit for that lab’s postlab assignment.
 
 Make up quizzes for absences are never allowed.
 
@@ -226,12 +237,26 @@ If the student misses the final exam for a documented reason acceptable to the i
 A student may receive an I for a course if they miss an essential part of the class for a documented reason acceptable to the instructor (Trips out of town for vacation, family reunions, or work are not acceptable reasons). To be eligible for an incomplete, the student must have completed 90% of the course with a grade of C or better. The I grade is not substitution for substandard performance. To receive an I, the student and the instructor must sign a written agreement and submit a copy with the division administrative staff.
 
 ---
+### Flexibility statementThe instructor reserves the right to revise the class calendar, modify content, and/or substitute assignments in response to institutional, weather, or class situations.
+
+---
 ### Desire2Learn
 Lecture material and quiz assignments as well as course announcements will all occur on D2L.
  **You are responsible for all information on Desire2Learn**. Please check it frequently.
 
-### Re-grad policy
-TODO insert re-grade policy here
+### Re-grade policy
+
+If you wish to dispute a grade, I will consider your request up to one full week after the assignment has been returned to you and you have access to solutions (whichever happens later). Requests for grade adjustments beyond the one-week deadline will not be considered.
+
+Re-grade requests for assignments and exams will be handled online. In order for a re-grade to be considered, you must message me the following:
+
+- Which question you want addressed
+- What your answer was (exactly!). Photo or physical evidence may be required.
+- Detailed justification for point recovery
+
+Any requests that do not include ALL THREE things WILL NOT be reviewed. I use this re-grade policy because sometimes writing about the question helps students realize where the mistake was (this is certainly the case for me when I write about things), and it gives students time to write more diplomatic emails (and me more time to truly consider the request and write thoughtful, diplomatic responses).
+
+This means that after-class re-grade ambushes will be met with frowns.
 
 ### Students with Disabilities
  PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
