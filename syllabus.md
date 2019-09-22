@@ -151,16 +151,16 @@ _Microscope Skills Test_
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
 |Mon., Sep. 23, 2019|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/A Tour of the Cell|3,4||
-|Mon., Oct. 7, 2019|3|A Tour of the Cell (cont.)/**EXAM 1 (Wed)**|4||
+|Mon., Sep. 30, 2019|2| Carbon and the Molecular Diversity of Life/A Tour of the Cell|3,4|Study Skills 1 Due Friday Midnight (submit on D2L)|
+|Mon., Oct. 7, 2019|3|A Tour of the Cell (cont.)/**EXAM 1 (Wed)**|4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
-|Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
-|Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
-|Mon., Nov. 4, 2019|7|Meiosis and Sexual Life Cycles (cont.); Mendel and the Gene Idea|10, 11||
-|Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|12||
+|Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9|Study Skills 4 Due Friday Midnight (submit on D2L)|
+|Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
+|Mon., Nov. 4, 2019|7|Meiosis and Sexual Life Cycles (cont.); Mendel and the Gene Idea|10, 11|Study Skills 5 Due Friday Midnight (submit on D2L)|
+|Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
 |Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance|12, 13|||
-|Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|||
-|Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|||
+|Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|Study Skills 6 Due Friday Midnight (submit on D2L)|
+|Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|D2L Homework in quizzes section due Friday (Ch. 13-14)(**before final**)|
 |Wed., Dec. 11, 2019 2:00-3:50 PM in Rm. 106|11|**Comprehensive Final Exam**|NA|||
 
 #### Lab
