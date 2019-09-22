@@ -28,7 +28,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 ### Lecture Instruction Materials
 - Campbell-Biology in Focus-Custom edition for PCC, ISBN 9781323766248 (Taken from Campbell-Biology in Focus Urry et al., 2nd ed., Pearson.)
     - The textbook changed in Fall, 2017, so older versions are unfortunately not suitable for the course anymore.
-    - You can use the MasteringBiology companion online. There are a lot of resources available for practice problems. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **TODO MBFISHER59345**.
+    - You can use the MasteringBiology companion online. There are a lot of resources available for practice problems. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER7689227**.
 
 #### Socrative
 
@@ -75,7 +75,7 @@ Any variation in point distribution will be announced in class.
 #### More details about the IHOP component
 1.	Participation – Attendance as measured by Socrative submissions will count toward this grade. Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
 2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term. You must be present to complete in-class assignments. These cannot be made up – no exceptions.
-3.	TODO is this true? Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam.
+3.	Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam.
 4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
@@ -100,7 +100,7 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 
 _Graphing Assignment_
 
-The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). I will publish more information about this assignment as the quarter goes on. TODO.
+The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). I will publish more information about this assignment as the quarter goes on TODO.
 
 _Postlab homework assignments_
 
@@ -140,7 +140,7 @@ _Microscope Skills Test_
 
 - Once during the quarter, I'll be evaluating your ability to talk about, properly handle/use a microscope, and calculate sizes of objects observed in the field of view.
 -	Please see (Appendix B) of your lab manual for more information and a checklist to help you prepare.
-- The skills tests will be administered to you individually during lab time on one of the last four weeks of lab TODO update schedule
+- The skills tests will be administered to you individually during lab time on one of the last four weeks of lab
 
 ---
 
@@ -174,12 +174,12 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and 3)/ Quiz 2 (on lab 2)/ Microworlds Potato cells|
 |Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 3 and 4)/ Quiz 3 (on lab 3)/ Microworlds Protist of choice|
 |Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)/ Microworlds _Elodea_|
-|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5)/Microworlds Villi of small intestine/ TODO Skills tests begin|
-|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6)/ Microworlds Yeast/ Skills tests|
-|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ Microworlds Onion root/ TODO Graphing assignment due|
-|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)/ Microworlds _Sordaria_ |
+|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5)/Microworlds Villi of small intestine|
+|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6)/ Microworlds Yeast/ Skills tests begin|
+|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ Microworlds Onion root/ Graphing assignment due/ Skills tests|
+|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)/ Microworlds _Sordaria_ / Skills tests|
 |Wed., Nov. 27, 2019|10|No Lab (Holiday)||
-|Wed., Dec. 4, 2019|11|10. DNA Structure|Postlabs 9 (on lab 9) and 10 (on lab 10) due in lab/ Quiz 9 (on lab 9)|
+|Wed., Dec. 4, 2019|11|10. DNA Structure|Postlabs 9 (on lab 9) and 10 (on lab 10) due in lab/ Quiz 9 (on lab 9)/ Skills tests|
 |Wed., Dec. 11, 2019|12|Finals Week|No work accepted during finals week|
 
 ---
@@ -268,8 +268,7 @@ Portland Community College is committed to creating and fostering a learning and
 
 ---
 ### Dropping/Withdrawing and Grade Options
-Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes).
-TODO spacing?	You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
+Pay attention to the college deadlines for withdrawing from the course or electing a P/NP or Audit option. You are responsible for learning what the options are, and exercising them within the designated time period. A "W" grade will be granted to the student who has followed established school procedures for properly withdrawing from the course within the specified time limits (consult your PCC Schedule of Classes). You may change to Audit or Pass/No Pass up until the dates specified in the schedule of classes.
 
 ---
 ### Sanctuary College
@@ -295,7 +294,7 @@ Students are expected to help maintain the appearance of the classroom. Please d
 
 #### Academic Courtesy and Classroom Discussions
 
-Questions and discussions are integral parts of this class!  We have TODO 4 hours of lecture each week and discussions help keep students (and the instructor!) engaged in the material. Many students learn new material by integrating it with their existing knowledge and by placing it in a specific and personal context. Therefore, some questions may sound ‘off-topic’ to some students because they have different view or understanding of the material. However, questions and comments that are not specifically in the book or notes may be just as important to student learning as questions directly from the material in the book.
+Questions and discussions are integral parts of this class!  We have ~4 hours of lecture each week and discussions help keep students (and the instructor!) engaged in the material. Many students learn new material by integrating it with their existing knowledge and by placing it in a specific and personal context. Therefore, some questions may sound ‘off-topic’ to some students because they have different view or understanding of the material. However, questions and comments that are not specifically in the book or notes may be just as important to student learning as questions directly from the material in the book.
 
 On the other hand, please try to limit your questions to the section we are covering and respect other people in the class. Some questions may be more appropriate to discuss during office hours. Please keep in mind that all students have different learning styles. I teach to as many of these styles as possible while making sure we cover the necessary material to keep us on schedule; I may ask you to take a question "off air", in which case we can discuss it after lecture time or in office hours.
 
