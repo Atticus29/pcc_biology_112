@@ -151,8 +151,8 @@ _Microscope Skills Test_
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
 |Mon., Sep. 23, 2019|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|Mon., Sep. 30, 2019|2| Chemical Context of Life (cont.)/Carbon and the Molecular Diversity of Life; A Tour of the Cell (content delivered as video)|3,4|Study Skills 1 Due Friday Midnight (submit on D2L)|
-|Mon., Oct. 7, 2019|3|Carbon and the Molecular Diversity of Life (cont.); A Tour of the Cell (cont.)/**EXAM 1 (Wed)**|3,4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
+|Mon., Sep. 30, 2019|2| Chemical Context of Life (cont.)/Carbon and the Molecular Diversity of Life|3|Study Skills 1 Due Friday Midnight (submit on D2L)|
+|Mon., Oct. 7, 2019|3|Carbon and the Molecular Diversity of Life (cont.); A Tour of the Cell (content delivered as video)/**EXAM 1 (Wed)**|3,4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9|Study Skills 4 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
