@@ -79,7 +79,7 @@ Students rarely have the chance to ruminate on past answers and consider potenti
 #### More details about the IHOP component
 1.	Participation – Attendance as measured by Socrative submissions will count toward this grade. Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
 2.	In-class assignments – A variable number of in-class group assignments (usually administered through Socrative, but sometimes on paper) will be assigned throughout the term. You must be present to complete in-class assignments. These cannot be made up – no exceptions.
-3.	Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam.
+3.	Online assignments – There are question sets for each chapter available through the quizzes function on D2L. You may take these multiple times – your average score will be recorded. They are due before each exam. If it asks you for a password, the password is **fall2019**.
 4.	Homework – Other assignments may be assigned to be completed; stay tuned.
 
 ---
