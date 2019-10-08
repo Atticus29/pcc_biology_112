@@ -46,7 +46,7 @@ For BI 112, a key ingredient to your success will be attendance. It is your resp
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 106|MW|2:00 PM-3:50 PM|
 |Lab|Bldg. 7 Rm. 123|W|11:00 AM-1:50 PM|
-|Office Hours|Bldg. 7 Rm. 202|M|12:45 PM - 1:45 PM OR by Appointment. To set up an appointment, please email me|
+|Office Hours|Bldg. 7 Rm. 202|M|12:45 PM - 1:45 PM as needed by appointment (so please email me to make sure I'll be there) OR Saturdays 10:00 AM - 2:00 AM in Rm. 121.|
 ---
 
 ### Grade Ranges
@@ -64,13 +64,17 @@ Lecture is worth ~700 points (this is subject to slight variation) with the foll
 
 |Graded Component|Description|Total Points|
 |:---:|:---:|:---:|
-|Exams|There will be three in-class lecture exams (175 pts. each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. You will not be permitted to leave the exam once you start. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
+|Exams|There will be three in-class lecture exams (175 pts. each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. **You will not be permitted to leave the exam once you start**. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
 |Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts.|
 |Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts.|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding, and learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
 |**Total**|---|**700 pts.**|
 
 Any variation in point distribution will be announced in class.
+
+#### More details about the 3 lecture exams
+
+Students rarely have the chance to ruminate on past answers and consider potential mistakes, which is a shame, because it's a great learning tool. Thus, upon completion of the exam, you will have the opportunity to re-take the exam with a partner with open notes and open internet. You will have one week to turn in your "what I should have said" (WISHeS) exam. You won't have access to your original answers until after you've turned in your WISHeS exam. 10% of the difference between your score on this version and your original score will be added to your original score.
 
 #### More details about the IHOP component
 1.	Participation – Attendance as measured by Socrative submissions will count toward this grade. Tardiness may result in reduced points. Active participation (beyond Socrative) will also factor into this component.
