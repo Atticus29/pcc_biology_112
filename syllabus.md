@@ -95,12 +95,12 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 
 |Item|Details|Total Points|
 |:---:|:---:|:---:|
-|Quizzes|9 @ 15 pts. each, lowest score dropped (more details below)|120 pts.|
-|Postlab Homework Assignments|10 @ 10 pts. each (more details below)|100 pts.|
+|Quizzes|8 @ 15 pts. each, lowest score dropped (more details below)|105 pts.|
+|Postlab Homework Assignments|9 @ 10 pts. each (more details below)|90 pts.|
 |Graphing Assignment|1 @ 10 pts. (more details below)|10 pts.|
 |Skills Test|1 @ 20 pts. (more details below)|20 pts.|
 |Microworlds Project|5 @ 10 pts. each (more details below)|50 pts.|
-|**Total**||300 pts.|
+|**Total**||275 pts.|
 
 _Graphing Assignment_
 
@@ -159,9 +159,9 @@ _Microscope Skills Test_
 |Mon., Oct. 7, 2019|3|Carbon and the Molecular Diversity of Life (cont.); A Tour of the Cell (content delivered as video)/**EXAM 1 (Wed)**|3,4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9|Study Skills 4 Due Friday Midnight (submit on D2L)|
-|Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
-|Mon., Nov. 4, 2019|7|Meiosis and Sexual Life Cycles (cont.); Mendel and the Gene Idea|10, 11|Study Skills 5 Due Friday Midnight (submit on D2L)|
-|Mon., Nov. 11, 2019|8|Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
+|Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles (remainder delivered remotely)/**No Class on Wednesday due to SAC Inservice**|10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
+|Mon., Nov. 4, 2019|7|**EXAM 2 (Mon)**/Mendel and the Gene Idea|11|Study Skills 5 Due Friday Midnight (submit on D2L)|
+|Mon., Nov. 11, 2019|8|Mendel and the Gene Idea (cont.); Chromosomal Basis of Inheritance; /**EXAM 3 (Wed)**|11, 12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
 |Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance|12, 13|||
 |Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ No class (holiday)|13|Study Skills 6 Due Friday Midnight (submit on D2L)|
 |Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|D2L Homework in quizzes section due Friday (Ch. 13-14)(**before final**)|
@@ -177,13 +177,13 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |Wed., Oct. 2, 2019|2|2. Microscope Skills|Postlab 1 (on labs 1 and 2)/ Quiz 1 (on lab 1)/ Microworlds Cheek cells|
 |Wed., Oct. 9, 2019|3|3. Biological Macromolecules|Postlab 2 (on lab 2 and 3)/ Quiz 2 (on lab 2)/ Microworlds Potato cells|
 |Wed., Oct. 16, 2019|4|4. pH and Buffers|Postlab 3 (on lab 3 and 4)/ Quiz 3 (on lab 3)/ Microworlds Protist of choice|
-|Wed., Oct. 23, 2019|5|5. Enzymes (Ex. 1-2)|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)/ Microworlds _Elodea_|
-|Wed., Oct. 30, 2019|6|6. Diffusion and Osmosis|Postlab 5 (on lab 5 and 6)/ Quiz 5 (on lab 5)/Microworlds Villi of small intestine|
-|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlabs 6 (on lab 6 and 7)/ Quiz 6 (on lab 6)/ Microworlds Yeast/ Skills tests begin|
-|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlab 7 (on labs 7 and 8)/ Quiz 7 (on lab 7)/ Microworlds Onion root/ Graphing assignment due/ Skills tests|
-|Wed., Nov. 20, 2019|9|9. Inheritance|Postlabs 8 (on labs 8 and 9)/ Quiz 8 (on lab 8)/ Microworlds _Sordaria_ / Skills tests|
+|Wed., Oct. 23, 2019|5|5. Diffusion and Osmosis|Postlab 4 (on lab 4 and 5)/ Quiz 4 (on lab 4)/ Microworlds _Elodea_|
+|Wed., Oct. 30, 2019|6|**No lab due to SAC Inservice**||
+|Wed., Nov. 6, 2019|7|7. Fermentation/Respiration|Postlab 5 (on lab 5 and 7)/ Quiz 5 (on lab 5)/ Microworlds Microworlds Villi of small intestine and Microworlds Yeast/ Skills tests begin|
+|Wed., Nov. 13, 2019|8|8. Meiosis and Mitosis|Postlabs 6 (on lab 7 and 8)/ Quiz 6 (on lab 7)/ Microworlds Onion root/ Graphing assignment due/ Skills tests|
+|Wed., Nov. 20, 2019|9|9. Inheritance|Postlab 7 (on labs 8 and 9)/ Quiz 7 (on lab 8)/ Microworlds _Sordaria_ / Skills tests|
 |Wed., Nov. 27, 2019|10|No Lab (Holiday)||
-|Wed., Dec. 4, 2019|11|10. DNA Structure|Postlabs 9 (on lab 9) and 10 (on lab 10) due in lab/ Quiz 9 (on lab 9)/ Skills tests|
+|Wed., Dec. 4, 2019|11|10. DNA Structure|Postlab 8 (on lab 9) and Postlab 9 (on lab 10 **due at end of lab**)/ Quiz 8 (on lab 9)/ Skills tests|
 |Wed., Dec. 11, 2019|12|Finals Week|No work accepted during finals week|
 
 ---
