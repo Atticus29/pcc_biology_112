@@ -158,7 +158,7 @@ _Microscope Skills Test_
 |Mon., Sep. 30, 2019|2| Chemical Context of Life (cont.)/Carbon and the Molecular Diversity of Life|3|Study Skills 1 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 7, 2019|3|Carbon and the Molecular Diversity of Life (cont.); A Tour of the Cell (content delivered as video)/**EXAM 1 (Wed)**|3,4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
-|Mon., Oct. 21, 2019|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9|Study Skills 4 Due Friday Midnight (submit on D2L)|
+|Mon., Oct. 21, 2019|5|An Introduction to Metabolism (cont.); Cellular Respiration and Fermentation/The Cell Cycle (remainder of content delivered as video)|7,9|Study Skills 4 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 28, 2019|6|Meiosis and Sexual Life Cycles (remainder delivered remotely)/**No Class on Wednesday due to SAC Inservice**|10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
 |Mon., Nov. 4, 2019|7|**EXAM 2 (Mon)**/Mendel and the Gene Idea|11|Study Skills 5 Due Friday Midnight (submit on D2L)|
 |Mon., Nov. 11, 2019|8|Mendel and the Gene Idea (cont.); Chromosomal Basis of Inheritance / Chromosomal Basis of Inheritance (cont.)|11, 12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
