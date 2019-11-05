@@ -159,11 +159,11 @@ _Microscope Skills Test_
 |Mon., Oct. 7, 2019|3|Carbon and the Molecular Diversity of Life (cont.); A Tour of the Cell (content delivered as video)/**EXAM 1 (Wed)**|3,4|D2L Homework in quizzes section due Friday (Ch. 1-3)/ Study Skills 2 and 3 Due Friday Midnight (submit on D2L)|
 |Mon., Oct. 14, 2019|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
 |Mon., Oct. 21, 2019|5|An Introduction to Metabolism (cont.); Cellular Respiration and Fermentation/Cellular Respiration and Fermentation (cont.)|7|Study Skills 4 Due Friday Midnight (submit on D2L)|
-|Mon., Oct. 28, 2019|6|The Cell Cycle; Meiosis and Sexual Life Cycles (content delivered remotely)/**No Class on Wednesday due to SAC Inservice**|9,10|D2L Homework in quizzes section due Friday (Ch. 4-10)|
-|Mon., Nov. 4, 2019|7|**EXAM 2 (Mon, Ch. 4-9)**/Mendel and the Gene Idea|11|Study Skills 5 Due Friday Midnight (submit on D2L)|
-|Mon., Nov. 11, 2019|8|Mendel and the Gene Idea (cont.); Chromosomal Basis of Inheritance / Chromosomal Basis of Inheritance (cont.)|11, 12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
+|Mon., Oct. 28, 2019|6|The Cell Cycle/**No Class on Wednesday due to SAC Inservice**|9|D2L Homework in quizzes section due Friday (Ch. 4-10)|
+|Mon., Nov. 4, 2019|7|**EXAM 2 (Mon, Ch. 4-9)**/Meiosis and Sexual Life Cycles|10|Study Skills 5 Due Friday Midnight (submit on D2L)|
+|Mon., Nov. 11, 2019|8|**No lecture Monday (holiday)** / Mendel and the Gene Idea (content delivered remotely); Chromosomal Basis of Inheritance |11, 12|D2L Homework in quizzes section due Friday (Ch. 11 [there is no HW for 12])|
 |Mon., Nov. 18, 2019|9|Chromosomal Basis of Inheritance (cont.); Molecular Basis of Inheritance/**EXAM 3 (Wed)**|12, 13|||
-|Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Possibly Delivered Remotely, TBD)/ **No class Wednesday (holiday)**|13|Study Skills 6 Due Friday Midnight (submit on D2L)|
+|Mon., Nov. 25, 2019|10|The Molecular Basis of Inheritance (cont.)(Content Delivered Remotely) **Lecture does not meet in person**/ **No class Wednesday (holiday)**|13|Study Skills 6 Due Friday Midnight (submit on D2L)|
 |Mon., Dec. 2, 2019|11|Gene Expression: From Gene to Protein/ Gene Expression: From Gene to Protein (cont.)|14|D2L Homework in quizzes section due Friday (Ch. 13-14)(**before final**)|
 |Wed., Dec. 11, 2019 2:00-3:50 PM in Rm. 106|11|**Comprehensive Final Exam**|NA|||
 
