@@ -66,9 +66,9 @@ Lecture is worth ~700 points (this is subject to slight variation) with the foll
 |:---:|:---:|:---:|
 |Exams|There will be three in-class lecture exams (175 pts. each). Your lowest in-class exam score will be dropped. You will have 60 minutes to complete each exam. There will be ~40 multiple choice questions and several (usually ~10) short answer questions on each exam. You will need a scantron form (882-E) and a #2 pencil. Because I drop your lowest exam score, **there are no make-up exams – no exceptions**. Please take care of restroom needs before the exam. **You will not be permitted to leave the exam once you start**. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.|350 pts.|
 |Final Exam|The final exam will cover the material not covered in the other exams AND it will have a comprehensive portion. You must take the final exam as scheduled. You may not drop the final exam as your lowest exam score. Its format will be similar to the other exams, but slightly longer.|200 pts.|
-|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|50 pts.|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|~54 pts.|
 |In-class assignments, homework, online assignments, participation (IHOP)|These are designed to help you improve your study skills, assess your own understanding, and learn the material. I am not looking for perfection. If you score 90% or above on these assignments, you will receive full credit for the IHOP. IHOP assignments are never accepted late.|100 pts.|
-|**Total**|---|**700 pts.**|
+|**Total**|---|**~704 pts.**|
 
 Any variation in point distribution will be announced in class.
 
@@ -97,14 +97,14 @@ Grade calculations: Please check on D2L to make sure your grades are entered cor
 |:---:|:---:|:---:|
 |Quizzes|8 @ 15 pts. each, lowest score dropped (more details below)|105 pts.|
 |Postlab Homework Assignments|9 @ 10 pts. each (more details below)|90 pts.|
-|Graphing Assignment|1 @ 10 pts. (more details below)|10 pts.|
-|Skills Test|1 @ 20 pts. (more details below)|20 pts.|
+|Signature Assessment (Graphing)|1 @ 10 pts. (more details below)|10 pts.|
+|Skills Test|1 @ 20 pts. (more details below)|25 pts.|
 |Microworlds Project|5 @ 10 pts. each (more details below)|50 pts.|
 |**Total**||275 pts.|
 
-_Graphing Assignment_
+_Signature Assessment (Graphing)_
 
-The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). I will publish more information about this assignment as the quarter goes on TODO.
+The state of Oregon now mandates that we assess quantitative literacy in order to ensure that our Biology classes remain General Education classes (i.e., in order to ensure that this class is transferrable). The question set to be answered can be found [here](https://docs.google.com/document/d/1Ld75gMHRK9R01yn1UrZui_Zbx7764T3WTpI9ImJin5s/edit?usp=sharing). The responses must be submitted on D2L; you should find a submission dropbox in your D2L shell.
 
 _Postlab homework assignments_
 
